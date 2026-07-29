@@ -2121,7 +2121,7 @@
     "date": "7/22/2026",
     "aging": "8",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2963649",
@@ -2265,7 +2265,7 @@
     "date": "7/23/2026",
     "aging": "7",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "193329",
@@ -2649,7 +2649,7 @@
     "date": "7/24/2026",
     "aging": "6",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2213032",
@@ -7029,7 +7029,7 @@
     "date": "7/27/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1576955",
@@ -9537,7 +9537,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "185746",
@@ -14709,7 +14709,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "355248",
@@ -15249,7 +15249,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3055543",
@@ -16776,18 +16776,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "1537412",
-    "driverName": "LUIZ FERNANDO RIBEIRO",
-    "hub": "BHZ",
-    "br": "BR2624086142985",
-    "seller": "65.486.591 DIEGO CARVALHO FARIA",
-    "city": "Belo Horizonte",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "3590019",
     "driverName": "PAULO HENRIQUE SANTOS SILVA",
     "hub": "3PL08",
@@ -17205,7 +17193,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3009877",
@@ -17673,7 +17661,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1648719",
@@ -20310,6 +20298,18 @@
     "br": "BR264693735665P",
     "seller": "Pega Pega Utilidades",
     "city": "Sarzedo",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "1537412",
+    "driverName": "LUIZ FERNANDO RIBEIRO",
+    "hub": "BHZ",
+    "br": "BR2624086142985",
+    "seller": "65.486.591 DIEGO CARVALHO FARIA",
+    "city": "Belo Horizonte",
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
