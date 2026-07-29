@@ -1653,7 +1653,7 @@
     "date": "7/21/2026",
     "aging": "9",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "873332",
@@ -2169,7 +2169,7 @@
     "date": "7/23/2026",
     "aging": "7",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "29584",
@@ -2361,7 +2361,7 @@
     "date": "7/23/2026",
     "aging": "7",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1118063",
@@ -3537,7 +3537,7 @@
     "date": "7/27/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3087567",
@@ -5625,7 +5625,7 @@
     "date": "7/27/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1158791",
@@ -5853,7 +5853,7 @@
     "date": "7/27/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "168028",
@@ -6081,7 +6081,7 @@
     "date": "7/27/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "189941",
@@ -9381,7 +9381,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -11793,7 +11793,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "41691",
@@ -12381,7 +12381,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3107127",
@@ -12681,7 +12681,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -13965,7 +13965,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -14628,18 +14628,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "197901",
-    "driverName": "Jonas Antonio Costa",
-    "hub": "MG2",
-    "br": "BR2648969622688",
-    "seller": "Pega Pega Utilidades",
-    "city": "Sarzedo",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "3590019",
     "driverName": "PAULO HENRIQUE SANTOS SILVA",
     "hub": "3PL08",
@@ -14790,18 +14778,6 @@
     "br": "BR264996501941M",
     "seller": "mgnovaserrana",
     "city": "Nova Serrana",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "197901",
-    "driverName": "Jonas Antonio Costa",
-    "hub": "MG2",
-    "br": "BR2660109012368",
-    "seller": "Pega Pega Utilidades",
-    "city": "Sarzedo",
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -17364,18 +17340,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "197901",
-    "driverName": "Jonas Antonio Costa",
-    "hub": "MG2",
-    "br": "BR264693735665P",
-    "seller": "Pega Pega Utilidades",
-    "city": "Sarzedo",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "141425",
     "driverName": "Ana Carolina Alves Monteiro",
     "hub": "3PL08",
@@ -18993,7 +18957,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "141425",
@@ -19809,7 +19773,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "182824",
@@ -20157,7 +20121,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1675080",
@@ -20253,7 +20217,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "141425",
@@ -20362,5 +20326,41 @@
     "aging": "2",
     "status": "Em validacao operacional",
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "197901",
+    "driverName": "Jonas Antonio Costa",
+    "hub": "MG2",
+    "br": "BR2648969622688",
+    "seller": "Pega Pega Utilidades",
+    "city": "Sarzedo",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "197901",
+    "driverName": "Jonas Antonio Costa",
+    "hub": "MG2",
+    "br": "BR2660109012368",
+    "seller": "Pega Pega Utilidades",
+    "city": "Sarzedo",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "197901",
+    "driverName": "Jonas Antonio Costa",
+    "hub": "MG2",
+    "br": "BR264693735665P",
+    "seller": "Pega Pega Utilidades",
+    "city": "Sarzedo",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
   }
 ]
