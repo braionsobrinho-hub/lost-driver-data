@@ -1665,7 +1665,7 @@
     "date": "7/21/2026",
     "aging": "9",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "209529",
@@ -4221,7 +4221,7 @@
     "date": "7/27/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "299953",
@@ -4245,7 +4245,7 @@
     "date": "7/27/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3009877",
@@ -6609,7 +6609,7 @@
     "date": "7/27/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "179417",
@@ -6741,7 +6741,7 @@
     "date": "7/27/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "234991",
@@ -8889,7 +8889,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "141425",
@@ -11217,7 +11217,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "259157",
@@ -12972,18 +12972,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "97794",
-    "driverName": "MARIA DO CARMO SOUZA PIRES",
-    "hub": "JDF",
-    "br": "BR263434877400F",
-    "seller": "infinitymeias",
-    "city": "Juiz de Fora",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "229789",
     "driverName": "Lucas Soares Lopes",
     "hub": "LPA",
@@ -13965,7 +13953,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "182824",
@@ -16113,7 +16101,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "551991",
@@ -17970,18 +17958,6 @@
     "br": "BR262463332010P",
     "seller": "mdshoessd",
     "city": "Nova Serrana",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "115779",
-    "driverName": "Edison Oliveira De Paula",
-    "hub": "JDF",
-    "br": "BR266305781010W",
-    "seller": "JOAO BATISTA FERNANDES DE LUCAS 08989364892",
-    "city": "Ubá",
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -20217,7 +20193,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2736722",
@@ -20361,6 +20337,30 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "97794",
+    "driverName": "MARIA DO CARMO SOUZA PIRES",
+    "hub": "JDF",
+    "br": "BR263434877400F",
+    "seller": "infinitymeias",
+    "city": "Juiz de Fora",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "115779",
+    "driverName": "Edison Oliveira De Paula",
+    "hub": "JDF",
+    "br": "BR266305781010W",
+    "seller": "JOAO BATISTA FERNANDES DE LUCAS 08989364892",
+    "city": "Ubá",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
     "action": "Acompanhar evolucao."
   }
 ]
