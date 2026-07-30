@@ -2709,7 +2709,7 @@
     "date": "7/27/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2439505",
@@ -2853,7 +2853,7 @@
     "date": "7/27/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "164233",
@@ -3153,7 +3153,7 @@
     "date": "7/27/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "141425",
@@ -3573,7 +3573,7 @@
     "date": "7/27/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3487154",
@@ -3789,7 +3789,7 @@
     "date": "7/28/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2213032",
@@ -6225,7 +6225,7 @@
     "date": "7/28/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2736722",
@@ -8562,18 +8562,6 @@
     "br": "BR268730313154Q",
     "seller": "Alan Felizardo Flavio 09825030674",
     "city": "Campos Gerais",
-    "date": "7/29/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "284802",
-    "driverName": "Lydia Aparecida dos Santos Maia",
-    "hub": "3PL08",
-    "br": "BR262364045435K",
-    "seller": "AmoraShoesTm",
-    "city": "Nova Serrana",
     "date": "7/29/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -14652,18 +14640,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2067932",
-    "driverName": "WARLEY FERREIRA PIRES",
-    "hub": "3PL08",
-    "br": "BR269573736843K",
-    "seller": "Linc Calcados",
-    "city": "Nova Serrana",
-    "date": "7/29/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "203011",
     "driverName": "ADEMAR GONCALVES DE MORAIS",
     "hub": "LPA",
@@ -15286,5 +15262,29 @@
     "aging": "2",
     "status": "Em validacao operacional",
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "284802",
+    "driverName": "Lydia Aparecida dos Santos Maia",
+    "hub": "3PL08",
+    "br": "BR262364045435K",
+    "seller": "AmoraShoesTm",
+    "city": "Nova Serrana",
+    "date": "7/29/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2067932",
+    "driverName": "WARLEY FERREIRA PIRES",
+    "hub": "3PL08",
+    "br": "BR269573736843K",
+    "seller": "Linc Calcados",
+    "city": "Nova Serrana",
+    "date": "7/29/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
   }
 ]
