@@ -1509,7 +1509,7 @@
     "date": "7/24/2026",
     "aging": "7",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "183375",
@@ -1569,7 +1569,7 @@
     "date": "7/24/2026",
     "aging": "7",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "581234",
@@ -2913,7 +2913,7 @@
     "date": "7/27/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "86038",
@@ -4701,7 +4701,7 @@
     "date": "7/28/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "189941",
@@ -5817,7 +5817,7 @@
     "date": "7/28/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -6510,18 +6510,6 @@
     "br": "BR267645969250A",
     "seller": "Asapoks",
     "city": "Nova Serrana",
-    "date": "7/28/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "153665",
-    "driverName": "YTALO SILVEIRA SILVA",
-    "hub": "IPN",
-    "br": "BR262822393350L",
-    "seller": "DMB Distribuidora",
-    "city": "Ipatinga",
     "date": "7/28/2026",
     "aging": "3",
     "status": "Em validacao operacional",
@@ -8037,7 +8025,7 @@
     "date": "7/29/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2297120",
@@ -9576,6 +9564,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "2067932",
+    "driverName": "WARLEY FERREIRA PIRES",
+    "hub": "3PL08",
+    "br": "BR269573736843K",
+    "seller": "Linc Calcados",
+    "city": "Nova Serrana",
+    "date": "7/29/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+  },
+  {
     "driverId": "2408546",
     "driverName": "ALIF ALEIXO DE MORAIS",
     "hub": "3PL08",
@@ -9645,7 +9645,7 @@
     "date": "7/29/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3009877",
@@ -12708,6 +12708,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "284802",
+    "driverName": "Lydia Aparecida dos Santos Maia",
+    "hub": "3PL08",
+    "br": "BR262364045435K",
+    "seller": "AmoraShoesTm",
+    "city": "Nova Serrana",
+    "date": "7/29/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+  },
+  {
     "driverId": "66413",
     "driverName": "Vitor de oliveira sousa",
     "hub": "MG2",
@@ -13005,7 +13017,7 @@
     "date": "7/29/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "141425",
@@ -15264,27 +15276,15 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2067932",
-    "driverName": "WARLEY FERREIRA PIRES",
-    "hub": "3PL08",
-    "br": "BR269573736843K",
-    "seller": "Linc Calcados",
-    "city": "Nova Serrana",
-    "date": "7/29/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "284802",
-    "driverName": "Lydia Aparecida dos Santos Maia",
-    "hub": "3PL08",
-    "br": "BR262364045435K",
-    "seller": "AmoraShoesTm",
-    "city": "Nova Serrana",
-    "date": "7/29/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
+    "driverId": "153665",
+    "driverName": "YTALO SILVEIRA SILVA",
+    "hub": "IPN",
+    "br": "BR262822393350L",
+    "seller": "DMB Distribuidora",
+    "city": "Ipatinga",
+    "date": "7/28/2026",
+    "aging": "3",
+    "status": "Em acompanhamento",
     "action": "Acompanhar evolucao."
   }
 ]
