@@ -3141,7 +3141,7 @@
     "date": "7/27/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -6057,7 +6057,7 @@
     "date": "7/27/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "923221",
@@ -8877,7 +8877,7 @@
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -10620,6 +10620,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR268312891565K",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+  },
+  {
     "driverId": "182824",
     "driverName": "Herbert Natividade Correa",
     "hub": "MG2",
@@ -10690,6 +10702,18 @@
     "aging": "2",
     "status": "Em validacao operacional",
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "138133",
+    "driverName": "JOSE ADAO DA SILVA",
+    "hub": "ES2",
+    "br": "BR2659306986673",
+    "seller": "Queiroz Express",
+    "city": "Serra",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2736722",
@@ -11292,6 +11316,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR266370346392B",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+  },
+  {
     "driverId": "141425",
     "driverName": "Ana Carolina Alves Monteiro",
     "hub": "3PL08",
@@ -11710,6 +11746,30 @@
     "aging": "2",
     "status": "Em validacao operacional",
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR2651288209668",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR264652781787L",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "172947",
@@ -13032,6 +13092,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR2634673188802",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+  },
+  {
     "driverId": "141425",
     "driverName": "Ana Carolina Alves Monteiro",
     "hub": "3PL08",
@@ -13488,6 +13560,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "138133",
+    "driverName": "JOSE ADAO DA SILVA",
+    "hub": "ES2",
+    "br": "BR263732573170C",
+    "seller": "infoleo informatica",
+    "city": "Serra",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+  },
+  {
     "driverId": "182824",
     "driverName": "Herbert Natividade Correa",
     "hub": "MG2",
@@ -13546,6 +13630,18 @@
     "aging": "2",
     "status": "Em validacao operacional",
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR262369660095O",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "27095",
@@ -14568,6 +14664,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR264330418769I",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+  },
+  {
     "driverId": "141425",
     "driverName": "Ana Carolina Alves Monteiro",
     "hub": "3PL08",
@@ -14794,6 +14902,18 @@
     "aging": "2",
     "status": "Em validacao operacional",
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR267087093513C",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/28/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "189941",
@@ -18012,132 +18132,12 @@
     "action": "Acompanhar evolucao."
   },
   {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR268312891565K",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "138133",
-    "driverName": "JOSE ADAO DA SILVA",
-    "hub": "ES2",
-    "br": "BR2659306986673",
-    "seller": "Queiroz Express",
-    "city": "Serra",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR266370346392B",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR2651288209668",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR264652781787L",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
     "driverId": "97794",
     "driverName": "MARIA DO CARMO SOUZA PIRES",
     "hub": "JDF",
     "br": "BR263434877400F",
     "seller": "infinitymeias",
     "city": "Juiz de Fora",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR2634673188802",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "138133",
-    "driverName": "JOSE ADAO DA SILVA",
-    "hub": "ES2",
-    "br": "BR263732573170C",
-    "seller": "infoleo informatica",
-    "city": "Serra",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR262369660095O",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR264330418769I",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/28/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR267087093513C",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
     "date": "7/28/2026",
     "aging": "2",
     "status": "Em acompanhamento",
