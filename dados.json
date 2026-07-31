@@ -2277,7 +2277,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3478732",
@@ -2493,7 +2493,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "179417",
@@ -5097,7 +5097,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "234991",
@@ -7904,8 +7904,8 @@
     "city": "Serra",
     "date": "7/30/2026",
     "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
   },
   {
     "driverId": "1326308",
@@ -7941,7 +7941,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2736722",
@@ -8778,18 +8778,6 @@
     "br": "BR263410018579Z",
     "seller": "LC Capas e Acessórios",
     "city": "Campo do Meio",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2089788",
-    "driverName": "MARCIANO ANDRADE LIMA",
-    "hub": "ES2",
-    "br": "BR260392449202S",
-    "seller": "ANGELINA COMERCIO DE ARTIGOS DE USO PESSOAL LTDA",
-    "city": "Marataízes",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -10257,7 +10245,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1326308",
@@ -10306,5 +10294,17 @@
     "aging": "2",
     "status": "Em validacao operacional",
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "2089788",
+    "driverName": "MARCIANO ANDRADE LIMA",
+    "hub": "ES2",
+    "br": "BR260392449202S",
+    "seller": "ANGELINA COMERCIO DE ARTIGOS DE USO PESSOAL LTDA",
+    "city": "Marataízes",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
   }
 ]
