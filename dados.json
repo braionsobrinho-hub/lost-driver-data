@@ -921,7 +921,7 @@
     "date": "7/21/2026",
     "aging": "11",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "873332",
@@ -945,7 +945,7 @@
     "date": "7/21/2026",
     "aging": "11",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "209529",
@@ -1041,7 +1041,7 @@
     "date": "7/22/2026",
     "aging": "10",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "96144",
@@ -1101,7 +1101,7 @@
     "date": "7/22/2026",
     "aging": "10",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2963649",
@@ -1122,18 +1122,6 @@
     "br": "BR264118511817H",
     "seller": "Dablio Tecnologia LTDA",
     "city": "Varginha",
-    "date": "7/22/2026",
-    "aging": "10",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "75734",
-    "driverName": "Ed Marcos Ribeiro",
-    "hub": "BHZ",
-    "br": "BR264890618662P",
-    "seller": "armanellionline",
-    "city": "Belo Horizonte",
     "date": "7/22/2026",
     "aging": "10",
     "status": "Em validacao operacional",
@@ -1245,7 +1233,7 @@
     "date": "7/22/2026",
     "aging": "10",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2408546",
@@ -1257,7 +1245,7 @@
     "date": "7/22/2026",
     "aging": "10",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "96213",
@@ -1269,7 +1257,7 @@
     "date": "7/23/2026",
     "aging": "9",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "166163",
@@ -1365,7 +1353,7 @@
     "date": "7/23/2026",
     "aging": "9",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "75734",
@@ -1461,7 +1449,7 @@
     "date": "7/24/2026",
     "aging": "8",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "115779",
@@ -1485,7 +1473,7 @@
     "date": "7/24/2026",
     "aging": "8",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2963649",
@@ -1521,7 +1509,7 @@
     "date": "7/24/2026",
     "aging": "8",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "189190",
@@ -1557,7 +1545,7 @@
     "date": "7/24/2026",
     "aging": "8",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2276768",
@@ -1569,7 +1557,7 @@
     "date": "7/24/2026",
     "aging": "8",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "72030",
@@ -1617,7 +1605,7 @@
     "date": "7/24/2026",
     "aging": "8",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "234991",
@@ -1641,7 +1629,7 @@
     "date": "7/24/2026",
     "aging": "8",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1673698",
@@ -1689,7 +1677,7 @@
     "date": "7/25/2026",
     "aging": "7",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1648719",
@@ -1737,19 +1725,7 @@
     "date": "7/25/2026",
     "aging": "7",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "109617",
-    "driverName": "RAFAEL ALMEIDA SANTOS",
-    "hub": "MG2",
-    "br": "BR2682872804077",
-    "seller": "Bric-à-Brac Artesanatos",
-    "city": "Belo Horizonte",
-    "date": "7/25/2026",
-    "aging": "7",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1648719",
@@ -1785,7 +1761,7 @@
     "date": "7/25/2026",
     "aging": "7",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "284802",
@@ -1797,7 +1773,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "581234",
@@ -1845,7 +1821,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2297120",
@@ -1965,7 +1941,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "229789",
@@ -2037,7 +2013,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1386564",
@@ -2169,7 +2145,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "179417",
@@ -2217,7 +2193,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2538117",
@@ -2253,7 +2229,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "299953",
@@ -2277,7 +2253,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2297120",
@@ -2313,7 +2289,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "82534",
@@ -2397,7 +2373,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "168028",
@@ -2409,7 +2385,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3478732",
@@ -2469,7 +2445,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3604005",
@@ -2505,7 +2481,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2297120",
@@ -2529,7 +2505,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1648719",
@@ -2577,7 +2553,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "29584",
@@ -2589,7 +2565,7 @@
     "date": "7/27/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "115819",
@@ -2625,7 +2601,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -2637,7 +2613,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -2649,7 +2625,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "141425",
@@ -2673,7 +2649,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -2685,7 +2661,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "178359",
@@ -2697,7 +2673,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -2709,7 +2685,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -2721,7 +2697,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2736722",
@@ -2745,7 +2721,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -2757,7 +2733,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2213032",
@@ -2889,7 +2865,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "178359",
@@ -2901,7 +2877,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2736722",
@@ -2961,7 +2937,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1648719",
@@ -2973,7 +2949,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1648719",
@@ -2985,7 +2961,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2897298",
@@ -3021,7 +2997,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "179417",
@@ -3069,7 +3045,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -3081,7 +3057,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2213032",
@@ -3129,7 +3105,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1576955",
@@ -3213,7 +3189,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "106420",
@@ -3249,7 +3225,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "299953",
@@ -3297,7 +3273,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1648719",
@@ -3309,7 +3285,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2213032",
@@ -3345,7 +3321,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2766771",
@@ -3393,7 +3369,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -3405,7 +3381,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -3417,7 +3393,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "551991",
@@ -3441,7 +3417,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -3453,7 +3429,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -3465,7 +3441,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "166700",
@@ -3477,7 +3453,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2213032",
@@ -3561,7 +3537,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "299953",
@@ -3585,7 +3561,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -3597,7 +3573,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "182824",
@@ -3609,7 +3585,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "122760",
@@ -3645,7 +3621,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "82534",
@@ -3705,7 +3681,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2766771",
@@ -3741,7 +3717,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3478732",
@@ -3765,7 +3741,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2028856",
@@ -3849,7 +3825,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3499747",
@@ -3885,7 +3861,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "189941",
@@ -3921,7 +3897,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -3933,7 +3909,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1673698",
@@ -3957,7 +3933,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2009290",
@@ -3981,7 +3957,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "189941",
@@ -4005,7 +3981,7 @@
     "date": "7/28/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2766771",
@@ -4197,7 +4173,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "234991",
@@ -4209,31 +4185,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR2603889978492",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
     "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
-  },
-  {
-    "driverId": "190939",
-    "driverName": "Flávia Alves Rezende",
-    "hub": "BHZ",
-    "br": "BR261769912883M",
-    "seller": "52.935.007 DANIEL BARBOSA DELLIA",
-    "city": "Ribeirão das Neves",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
     "driverId": "1326308",
@@ -4269,7 +4221,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "352407",
@@ -4332,18 +4284,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "190939",
-    "driverName": "Flávia Alves Rezende",
-    "hub": "BHZ",
-    "br": "BR266487783621G",
-    "seller": "52.935.007 DANIEL BARBOSA DELLIA",
-    "city": "Ribeirão das Neves",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "229789",
     "driverName": "Lucas Soares Lopes",
     "hub": "LPA",
@@ -4353,7 +4293,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1326308",
@@ -4377,7 +4317,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2647393",
@@ -4437,7 +4377,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1326308",
@@ -4473,7 +4413,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1781691",
@@ -4524,18 +4464,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR2627491634903",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
-  },
-  {
     "driverId": "1326308",
     "driverName": "GABRIELA CAMPOS COSTA FERNANDES",
     "hub": "3PL08",
@@ -4578,18 +4506,6 @@
     "br": "BR264719157659C",
     "seller": "Atacadão Mixx",
     "city": "Lagoa da Prata",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR2689098264555",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
@@ -4665,7 +4581,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "26239",
@@ -4737,7 +4653,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3009877",
@@ -4809,7 +4725,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "27095",
@@ -4857,7 +4773,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2087182",
@@ -4881,7 +4797,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "26350",
@@ -4902,18 +4818,6 @@
     "br": "BR260573818379T",
     "seller": "Rotibril",
     "city": "Belo Horizonte",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR262045430214K",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
@@ -5076,42 +4980,6 @@
     "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR267390480225Q",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
-  },
-  {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR265622489002P",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
-  },
-  {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR2662252827299",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
-  },
-  {
     "driverId": "1673698",
     "driverName": "FABIO SALES DA SILVA",
     "hub": "ES2",
@@ -5146,18 +5014,6 @@
     "aging": "3",
     "status": "Em validacao operacional",
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR2692986457442",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2647393",
@@ -5256,18 +5112,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR267266413558G",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
-  },
-  {
     "driverId": "3478732",
     "driverName": "OTAVIO GONCALVES ALVES",
     "hub": "LPA",
@@ -5277,7 +5121,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3590019",
@@ -5313,7 +5157,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1673698",
@@ -5340,18 +5184,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "712997",
-    "driverName": "WELINGTON FERREIRA BORGES",
-    "hub": "ES2",
-    "br": "BR2603417901902",
-    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
-    "city": "Guarapari",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
-  },
-  {
     "driverId": "234991",
     "driverName": "Luis Felipe Belinello Rozendo",
     "hub": "VAG",
@@ -5361,7 +5193,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2679906",
@@ -5481,7 +5313,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1673698",
@@ -5616,18 +5448,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR260737004925W",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "3590019",
     "driverName": "PAULO HENRIQUE SANTOS SILVA",
     "hub": "3PL08",
@@ -5661,19 +5481,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "190939",
-    "driverName": "Flávia Alves Rezende",
-    "hub": "BHZ",
-    "br": "BR265600181382T",
-    "seller": "52.935.007 DANIEL BARBOSA DELLIA",
-    "city": "Ribeirão das Neves",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "41691",
@@ -5685,7 +5493,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1326308",
@@ -5721,7 +5529,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1673698",
@@ -5781,19 +5589,7 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2675934782761",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/29/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1673698",
@@ -5841,18 +5637,6 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "3122182",
-    "driverName": "MATHEUS MATIAS SILVA",
-    "hub": "JDF",
-    "br": "BR264386366419R",
-    "seller": "Pet Cão Atacadista",
-    "city": "Dores de Campos",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
     "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
@@ -5880,18 +5664,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR264025699897C",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "551991",
     "driverName": "EMERSON BORGES SALGADO",
     "hub": "UDI",
@@ -5901,7 +5673,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1747146",
@@ -5913,7 +5685,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1504224",
@@ -5937,19 +5709,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR265696871746D",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3009877",
@@ -5985,7 +5745,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1932496",
@@ -6033,7 +5793,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "551991",
@@ -6045,7 +5805,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "209529",
@@ -6093,7 +5853,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3009877",
@@ -6117,7 +5877,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1289384",
@@ -6168,36 +5928,12 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR260666537606H",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "41691",
     "driverName": "Tiago Araújo de Andrade",
     "hub": "LPA",
     "br": "BR2699436057855",
     "seller": "UAI MAGAZINE IMPORTADORA",
     "city": "Lagoa da Prata",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2671292598362",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -6261,7 +5997,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "193329",
@@ -6282,42 +6018,6 @@
     "br": "BR2616061123146",
     "seller": "COLORARTE LTDA",
     "city": "Uberlândia",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR265231041846J",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2604528434066",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR262990899555L",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -6357,7 +6057,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1289384",
@@ -6381,7 +6081,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3009877",
@@ -6441,7 +6141,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "209529",
@@ -6549,7 +6249,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "178359",
@@ -6585,7 +6285,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1932496",
@@ -6645,7 +6345,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "41691",
@@ -6654,18 +6354,6 @@
     "br": "BR269474881166R",
     "seller": "serenamodaintima",
     "city": "Lagoa da Prata",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2352507",
-    "driverName": "RICARDO ABDIAS BRAGA OLIVEIRA",
-    "hub": "GOV",
-    "br": "BR263969524474D",
-    "seller": "35.243.801 JOAO PAULO CARVALHO DE MOURA",
-    "city": "Governador Valadares",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -6792,18 +6480,6 @@
     "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR264257377452J",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "27095",
     "driverName": "ROMULO LUCAS REIS DA SILVA",
     "hub": "3PL08",
@@ -6846,30 +6522,6 @@
     "br": "BR260202740260Y",
     "seller": "LEONARDO MEGDA MACHADO",
     "city": "Campo do Meio",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2652498021617",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2650123394467",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -7032,36 +6684,12 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR262476533659A",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "1576955",
     "driverName": "RICARDO LUIZ BENEDITO",
     "hub": "UDI",
     "br": "BR262241844659N",
     "seller": "24.402.096 BRUNO DOS SANTOS GONCALVES",
     "city": "Araguari",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR260640288628F",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -7090,18 +6718,6 @@
     "aging": "2",
     "status": "Em validacao operacional",
     "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2607215165150",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
     "driverId": "1932496",
@@ -7176,30 +6792,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2648547612207",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2652747466019",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "96743",
     "driverName": "Alexsandro Machado",
     "hub": "BHZ",
@@ -7254,18 +6846,6 @@
     "br": "BR262641029003Z",
     "seller": "Acores Motos",
     "city": "Guarapari",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR265372534034E",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -7344,36 +6924,12 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR263497872916E",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "223165",
     "driverName": "EDER FERNANDO FELISBINO",
     "hub": "VAG",
     "br": "BR260095070636J",
     "seller": "Adriane Maria O Camilo",
     "city": "Campo do Meio",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR267444278328G",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -7428,18 +6984,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR260004720416J",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "144524",
     "driverName": "Felipe Morais Gonzaga",
     "hub": "3PL08",
@@ -7473,7 +7017,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "551991",
@@ -7485,7 +7029,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3379671",
@@ -7533,7 +7077,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "209529",
@@ -7608,36 +7152,12 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR265497732123H",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "53592",
     "driverName": "Daniel da Silva costa",
     "hub": "EXA",
     "br": "BR2665010493411",
     "seller": "53.166.136 IGOR HENRIQUE DE PADUA FERREIRA",
     "city": "Jacutinga",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR261414600906K",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -7653,7 +7173,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "80354",
@@ -7713,7 +7233,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "122668",
@@ -7782,18 +7302,6 @@
     "br": "BR264310345951F",
     "seller": "Cestart Artesanatos LTDA",
     "city": "Baependi",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "3315206",
-    "driverName": "REINALDO XAVIER DOS SANTOS",
-    "hub": "EXA",
-    "br": "BR268061351263O",
-    "seller": "Jefferson Lucimar de Faria",
-    "city": "Itajubá",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -7878,30 +7386,6 @@
     "br": "BR2657031208553",
     "seller": "Baroliveira Comercio e Distribuição LTDA",
     "city": "Nepomuceno",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2645367135723",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR263933541198O",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -8049,7 +7533,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "202819",
@@ -8145,7 +7629,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2213032",
@@ -8181,7 +7665,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "27095",
@@ -8253,7 +7737,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "234991",
@@ -8280,36 +7764,12 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2646435350994",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "923221",
     "driverName": "WALBER RODRIGUES SURIANI",
     "hub": "UDI",
     "br": "BR2685318879993",
     "seller": "60.234.555 ROSEMBERG DE PAULA TORRES",
     "city": "Uberlândia",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "309648",
-    "driverName": "CARLOS ROBERTO CORREA BRETAS",
-    "hub": "ES2",
-    "br": "BR268347567645E",
-    "seller": "Leal Mix Distribuidora",
-    "city": "Cariacica",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -8397,7 +7857,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2736722",
@@ -8448,18 +7908,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "62160",
-    "driverName": "yuri okuma",
-    "hub": "JDF",
-    "br": "BR2678748723751",
-    "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
-    "city": "Juiz de Fora",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
-  },
-  {
     "driverId": "124446",
     "driverName": "Thiago Lucas Alves dos Santos",
     "hub": "3PL08",
@@ -8478,18 +7926,6 @@
     "br": "BR2618936865806",
     "seller": "Mapri Projetos e Instalações Elétricas LTDA.",
     "city": "Uberlândia",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR263399379079H",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -8592,30 +8028,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2685208471863",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR262958519787H",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "551991",
     "driverName": "EMERSON BORGES SALGADO",
     "hub": "UDI",
@@ -8625,7 +8037,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1326308",
@@ -8685,7 +8097,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1326308",
@@ -8760,30 +8172,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2607133301965",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR267166011678N",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "234991",
     "driverName": "Luis Felipe Belinello Rozendo",
     "hub": "VAG",
@@ -8844,18 +8232,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR261626667053G",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "2213032",
     "driverName": "CLEIDSON ANTONIO BERNARDES",
     "hub": "UDI",
@@ -8877,7 +8253,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3009877",
@@ -8886,18 +8262,6 @@
     "br": "BR261985173909E",
     "seller": "LEONARDO MEGDA MACHADO",
     "city": "Campo do Meio",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR263123542572H",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -9117,7 +8481,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1326308",
@@ -9192,30 +8556,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2602759795848",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2620538383316",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "209529",
     "driverName": "Claudio António de Oliveira",
     "hub": "VAG",
@@ -9228,48 +8568,12 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR266064087604C",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR261191628897K",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "581234",
     "driverName": "YAN CHRISTI GONCALVES",
     "hub": "UDI",
     "br": "BR268458559605Z",
     "seller": "COLORARTE LTDA",
     "city": "Uberlândia",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2634243805918",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -9297,7 +8601,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2297120",
@@ -9306,18 +8610,6 @@
     "br": "BR2655522182004",
     "seller": "FM COMERCIO VAREJISTA LTDA",
     "city": "Uberlândia",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR266624106891I",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -9333,7 +8625,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "209529",
@@ -9342,66 +8634,6 @@
     "br": "BR262659485326S",
     "seller": "Alan Felizardo Flavio 09825030674",
     "city": "Campos Gerais",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2601441435381",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR262445117535J",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR266664065960E",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2636658757591",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR260972522406C",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -9546,18 +8778,6 @@
     "br": "BR261972934158E",
     "seller": "Trevisan Magazine",
     "city": "Nova Serrana",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR260883572695E",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -9717,7 +8937,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1326308",
@@ -9789,7 +9009,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2736722",
@@ -9822,18 +9042,6 @@
     "br": "BR265016075678Z",
     "seller": "DEED SHOES",
     "city": "Nova Serrana",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR269283602641L",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -9873,7 +9081,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2985863",
@@ -9924,60 +9132,12 @@
     "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR268441546625U",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "202819",
     "driverName": "Lucas Ferreira dias",
     "hub": "MG2",
     "br": "BR264518178061C",
     "seller": "Status Pets",
     "city": "Belo Horizonte",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR262528371657D",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR261475432841L",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2658892579312",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -10018,30 +9178,6 @@
     "aging": "2",
     "status": "Em validacao operacional",
     "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2696447936116",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR269373965804L",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
     "driverId": "3184147",
@@ -10152,30 +9288,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR266384115004O",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2276768",
-    "driverName": "RODRIGO CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR269694852554Y",
-    "seller": "inova_beauty",
-    "city": "Vila Velha",
-    "date": "7/30/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "223165",
     "driverName": "EDER FERNANDO FELISBINO",
     "hub": "VAG",
@@ -10197,7 +9309,7 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "106420",
@@ -10221,7 +9333,55 @@
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+  },
+  {
+    "driverId": "75734",
+    "driverName": "Ed Marcos Ribeiro",
+    "hub": "BHZ",
+    "br": "BR264890618662P",
+    "seller": "armanellionline",
+    "city": "Belo Horizonte",
+    "date": "7/22/2026",
+    "aging": "10",
+    "status": "Em validacao operacional",
+    "action": "Monitorar e cobrar retorno antes de virar critico."
+  },
+  {
+    "driverId": "109617",
+    "driverName": "RAFAEL ALMEIDA SANTOS",
+    "hub": "MG2",
+    "br": "BR2682872804077",
+    "seller": "Bric-à-Brac Artesanatos",
+    "city": "Belo Horizonte",
+    "date": "7/25/2026",
+    "aging": "7",
+    "status": "Em validacao operacional",
+    "action": "Monitorar e cobrar retorno antes de virar critico."
+  },
+  {
+    "driverId": "190939",
+    "driverName": "Flávia Alves Rezende",
+    "hub": "BHZ",
+    "br": "BR261769912883M",
+    "seller": "52.935.007 DANIEL BARBOSA DELLIA",
+    "city": "Ribeirão das Neves",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "190939",
+    "driverName": "Flávia Alves Rezende",
+    "hub": "BHZ",
+    "br": "BR266487783621G",
+    "seller": "52.935.007 DANIEL BARBOSA DELLIA",
+    "city": "Ribeirão das Neves",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
   },
   {
     "driverId": "193853",
@@ -10233,6 +9393,258 @@
     "date": "7/29/2026",
     "aging": "3",
     "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "190939",
+    "driverName": "Flávia Alves Rezende",
+    "hub": "BHZ",
+    "br": "BR265600181382T",
+    "seller": "52.935.007 DANIEL BARBOSA DELLIA",
+    "city": "Ribeirão das Neves",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR2603889978492",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR2627491634903",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR2689098264555",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR262045430214K",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR267390480225Q",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR265622489002P",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR2662252827299",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR2692986457442",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR267266413558G",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "712997",
+    "driverName": "WELINGTON FERREIRA BORGES",
+    "hub": "ES2",
+    "br": "BR2603417901902",
+    "seller": "MEGA COMERCIO CONCERTINAS LTDA",
+    "city": "Guarapari",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR260737004925W",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2675934782761",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/29/2026",
+    "aging": "3",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "3122182",
+    "driverName": "MATHEUS MATIAS SILVA",
+    "hub": "JDF",
+    "br": "BR264386366419R",
+    "seller": "Pet Cão Atacadista",
+    "city": "Dores de Campos",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR264025699897C",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR265696871746D",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR260666537606H",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2671292598362",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR265231041846J",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2604528434066",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR262990899555L",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
     "action": "Acompanhar evolucao."
   },
   {
@@ -10254,6 +9666,270 @@
     "br": "BR2612260949591",
     "seller": "Store ES",
     "city": "Serra",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2352507",
+    "driverName": "RICARDO ABDIAS BRAGA OLIVEIRA",
+    "hub": "GOV",
+    "br": "BR263969524474D",
+    "seller": "35.243.801 JOAO PAULO CARVALHO DE MOURA",
+    "city": "Governador Valadares",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR264257377452J",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2652498021617",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2650123394467",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR262476533659A",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR260640288628F",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2607215165150",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2648547612207",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2652747466019",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR265372534034E",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR263497872916E",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR267444278328G",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR260004720416J",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR265497732123H",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR261414600906K",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "3315206",
+    "driverName": "REINALDO XAVIER DOS SANTOS",
+    "hub": "EXA",
+    "br": "BR268061351263O",
+    "seller": "Jefferson Lucimar de Faria",
+    "city": "Itajubá",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2645367135723",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR263933541198O",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2646435350994",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "309648",
+    "driverName": "CARLOS ROBERTO CORREA BRETAS",
+    "hub": "ES2",
+    "br": "BR268347567645E",
+    "seller": "Leal Mix Distribuidora",
+    "city": "Cariacica",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "62160",
+    "driverName": "yuri okuma",
+    "hub": "JDF",
+    "br": "BR2678748723751",
+    "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
+    "city": "Juiz de Fora",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR263399379079H",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em acompanhamento",
@@ -10284,6 +9960,222 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2685208471863",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR262958519787H",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2607133301965",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR267166011678N",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR261626667053G",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR263123542572H",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2602759795848",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2620538383316",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR266064087604C",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR261191628897K",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2634243805918",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR266624106891I",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2601441435381",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR262445117535J",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR266664065960E",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2636658757591",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR260972522406C",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR260883572695E",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "2766771",
     "driverName": "WALBER VIANA DE OLIVEIRA",
     "hub": "IPN",
@@ -10296,12 +10188,120 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR269283602641L",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR268441546625U",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR262528371657D",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR261475432841L",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2658892579312",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2696447936116",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR269373965804L",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "2766771",
     "driverName": "WALBER VIANA DE OLIVEIRA",
     "hub": "IPN",
     "br": "BR2614729293083",
     "seller": "DROGARIA BELA VIDA",
     "city": "Ipatinga",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR266384115004O",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
+    "date": "7/30/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2276768",
+    "driverName": "RODRIGO CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR269694852554Y",
+    "seller": "inova_beauty",
+    "city": "Vila Velha",
     "date": "7/30/2026",
     "aging": "2",
     "status": "Em acompanhamento",
