@@ -3873,7 +3873,7 @@
     "date": "7/30/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "581234",
@@ -5010,18 +5010,6 @@
     "br": "BR263529489386X",
     "seller": "PAPELARTE IMPRESSOES LTDA",
     "city": "Contagem",
-    "date": "7/31/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "119392",
-    "driverName": "Wallace Eduardo de castro souza",
-    "hub": "3PL08",
-    "br": "BR2633074826028",
-    "seller": "JEMAX COMERCIO",
-    "city": "Nova Serrana",
     "date": "7/31/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -7782,6 +7770,18 @@
     "br": "BR2610537988394",
     "seller": "Droga Clara",
     "city": "Contagem",
+    "date": "7/31/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "119392",
+    "driverName": "Wallace Eduardo de castro souza",
+    "hub": "3PL08",
+    "br": "BR2633074826028",
+    "seller": "JEMAX COMERCIO",
+    "city": "Nova Serrana",
     "date": "7/31/2026",
     "aging": "2",
     "status": "Em validacao operacional",
