@@ -1113,7 +1113,7 @@
     "date": "7/24/2026",
     "aging": "9",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "115779",
@@ -3777,7 +3777,7 @@
     "date": "7/30/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1932496",
@@ -4349,18 +4349,6 @@
     "hub": "3PL08",
     "br": "BR2697895767141",
     "seller": "Pé Livre Oficial",
-    "city": "Nova Serrana",
-    "date": "7/31/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "638687",
-    "driverName": "DOUGLAS ESPINDOLA RIBEIRO",
-    "hub": "3PL08",
-    "br": "BR2662406910804",
-    "seller": "BODE SHOES",
     "city": "Nova Serrana",
     "date": "7/31/2026",
     "aging": "2",
@@ -5166,18 +5154,6 @@
     "br": "BR261230482207X",
     "seller": "WMA E-COMMERCE",
     "city": "Campo do Meio",
-    "date": "7/31/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "3379671",
-    "driverName": "ERIK DILLON MENDONCA VIDAL",
-    "hub": "3PL08",
-    "br": "BR260488836880P",
-    "seller": "luiz philipe faria silva lemos",
-    "city": "Pitangui",
     "date": "7/31/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -6804,18 +6780,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2408546",
-    "driverName": "ALIF ALEIXO DE MORAIS",
-    "hub": "3PL08",
-    "br": "BR265361565994N",
-    "seller": "Asapoks",
-    "city": "Nova Serrana",
-    "date": "7/31/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "234991",
     "driverName": "Luis Felipe Belinello Rozendo",
     "hub": "VAG",
@@ -7836,6 +7800,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "638687",
+    "driverName": "DOUGLAS ESPINDOLA RIBEIRO",
+    "hub": "3PL08",
+    "br": "BR2662406910804",
+    "seller": "BODE SHOES",
+    "city": "Nova Serrana",
+    "date": "7/31/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "3590019",
     "driverName": "PAULO HENRIQUE SANTOS SILVA",
     "hub": "3PL08",
@@ -7872,6 +7848,18 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "3379671",
+    "driverName": "ERIK DILLON MENDONCA VIDAL",
+    "hub": "3PL08",
+    "br": "BR260488836880P",
+    "seller": "luiz philipe faria silva lemos",
+    "city": "Pitangui",
+    "date": "7/31/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "3590019",
     "driverName": "PAULO HENRIQUE SANTOS SILVA",
     "hub": "3PL08",
@@ -7902,6 +7890,18 @@
     "br": "BR2610537988394",
     "seller": "Droga Clara",
     "city": "Contagem",
+    "date": "7/31/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2408546",
+    "driverName": "ALIF ALEIXO DE MORAIS",
+    "hub": "3PL08",
+    "br": "BR265361565994N",
+    "seller": "Asapoks",
+    "city": "Nova Serrana",
     "date": "7/31/2026",
     "aging": "2",
     "status": "Em validacao operacional",
