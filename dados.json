@@ -2169,7 +2169,7 @@
     "date": "7/28/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "166700",
@@ -4644,18 +4644,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2779221",
-    "driverName": "ADRIANO ALVES COSTA",
-    "hub": "BHZ",
-    "br": "BR261272597715I",
-    "seller": "51.194.594 YAGO SETA DINIZ",
-    "city": "Belo Horizonte",
-    "date": "7/31/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "1932496",
     "driverName": "MARCOS SIDNEY DE LIMA",
     "hub": "3PL08",
@@ -4830,18 +4818,6 @@
     "br": "BR2673965425194",
     "seller": "BELIVE OFICIAL",
     "city": "Uberaba",
-    "date": "7/31/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "126137",
-    "driverName": "Renato Rabelo Couto",
-    "hub": "MG2",
-    "br": "BR2642404193683",
-    "seller": "Lojas Gontijo Express",
-    "city": "Divinópolis",
     "date": "7/31/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -7930,6 +7906,30 @@
     "aging": "2",
     "status": "Em validacao operacional",
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "2779221",
+    "driverName": "ADRIANO ALVES COSTA",
+    "hub": "BHZ",
+    "br": "BR261272597715I",
+    "seller": "51.194.594 YAGO SETA DINIZ",
+    "city": "Belo Horizonte",
+    "date": "7/31/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "126137",
+    "driverName": "Renato Rabelo Couto",
+    "hub": "MG2",
+    "br": "BR2642404193683",
+    "seller": "Lojas Gontijo Express",
+    "city": "Divinópolis",
+    "date": "7/31/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
   },
   {
     "driverId": "96743",
