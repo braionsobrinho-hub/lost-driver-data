@@ -3765,7 +3765,7 @@
     "date": "7/30/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2736722",
@@ -3969,7 +3969,7 @@
     "date": "7/30/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2213032",
@@ -4029,7 +4029,7 @@
     "date": "7/30/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "164233",
@@ -4974,18 +4974,6 @@
     "br": "BR2624282041165",
     "seller": "SPN MARKET",
     "city": "Uberlândia",
-    "date": "7/31/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "3590019",
-    "driverName": "PAULO HENRIQUE SANTOS SILVA",
-    "hub": "3PL08",
-    "br": "BR265392113591B",
-    "seller": "Santana Rios",
-    "city": "Nova Serrana",
     "date": "7/31/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -6216,35 +6204,11 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "3590019",
-    "driverName": "PAULO HENRIQUE SANTOS SILVA",
-    "hub": "3PL08",
-    "br": "BR2670585650404",
-    "seller": "Zyra Calçados",
-    "city": "Nova Serrana",
-    "date": "7/31/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "1932496",
     "driverName": "MARCOS SIDNEY DE LIMA",
     "hub": "3PL08",
     "br": "BR268749871861A",
     "seller": "TNT OUTLOOK CALÇADOS LTDA",
-    "city": "Nova Serrana",
-    "date": "7/31/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "3590019",
-    "driverName": "PAULO HENRIQUE SANTOS SILVA",
-    "hub": "3PL08",
-    "br": "BR266927706685T",
-    "seller": "Marracalcados1",
     "city": "Nova Serrana",
     "date": "7/31/2026",
     "aging": "2",
@@ -6330,18 +6294,6 @@
     "br": "BR266281713717M",
     "seller": "mypetone",
     "city": "Belo Horizonte",
-    "date": "7/31/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "194143",
-    "driverName": "Eder José Ferreira Gomes",
-    "hub": "3PL08",
-    "br": "BR2608791543146",
-    "seller": "Linc Calcados",
-    "city": "Nova Serrana",
     "date": "7/31/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -7032,18 +6984,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "168028",
-    "driverName": "Emerson Pereira da Costa",
-    "hub": "MG2",
-    "br": "BR269153713792D",
-    "seller": "Eletronica Robson LTDA",
-    "city": "Itaúna",
-    "date": "7/31/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "2283821",
     "driverName": "WENDER EDUARDO SENA",
     "hub": "ES2",
@@ -7620,18 +7560,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "3590019",
-    "driverName": "PAULO HENRIQUE SANTOS SILVA",
-    "hub": "3PL08",
-    "br": "BR2689531486306",
-    "seller": "calçados azuz",
-    "city": "Nova Serrana",
-    "date": "7/31/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "2770317",
     "driverName": "JOEL DOUGLAS LOUBACK RINUPHI",
     "hub": "MG2",
@@ -7932,6 +7860,18 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "3590019",
+    "driverName": "PAULO HENRIQUE SANTOS SILVA",
+    "hub": "3PL08",
+    "br": "BR265392113591B",
+    "seller": "Santana Rios",
+    "city": "Nova Serrana",
+    "date": "7/31/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "96743",
     "driverName": "Alexsandro Machado",
     "hub": "BHZ",
@@ -7956,12 +7896,72 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "3590019",
+    "driverName": "PAULO HENRIQUE SANTOS SILVA",
+    "hub": "3PL08",
+    "br": "BR2670585650404",
+    "seller": "Zyra Calçados",
+    "city": "Nova Serrana",
+    "date": "7/31/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "3590019",
+    "driverName": "PAULO HENRIQUE SANTOS SILVA",
+    "hub": "3PL08",
+    "br": "BR266927706685T",
+    "seller": "Marracalcados1",
+    "city": "Nova Serrana",
+    "date": "7/31/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "194143",
+    "driverName": "Eder José Ferreira Gomes",
+    "hub": "3PL08",
+    "br": "BR2608791543146",
+    "seller": "Linc Calcados",
+    "city": "Nova Serrana",
+    "date": "7/31/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "168028",
+    "driverName": "Emerson Pereira da Costa",
+    "hub": "MG2",
+    "br": "BR269153713792D",
+    "seller": "Eletronica Robson LTDA",
+    "city": "Itaúna",
+    "date": "7/31/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "96743",
     "driverName": "Alexsandro Machado",
     "hub": "BHZ",
     "br": "BR2610537988394",
     "seller": "Droga Clara",
     "city": "Contagem",
+    "date": "7/31/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "3590019",
+    "driverName": "PAULO HENRIQUE SANTOS SILVA",
+    "hub": "3PL08",
+    "br": "BR2689531486306",
+    "seller": "calçados azuz",
+    "city": "Nova Serrana",
     "date": "7/31/2026",
     "aging": "2",
     "status": "Em validacao operacional",
