@@ -8568,18 +8568,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2897298",
-    "driverName": "EDSON ROBERTO AQUINO IZIDIO",
-    "hub": "3PL08",
-    "br": "BR265619538289P",
-    "seller": "BODE SHOES",
-    "city": "Nova Serrana",
-    "date": "8/1/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "3478129",
     "driverName": "LUCAS LUIZ DA SILVA",
     "hub": "3PL08",
@@ -8766,18 +8754,6 @@
     "br": "BR262839321465D",
     "seller": "Drogaria  Araujo",
     "city": "Belo Horizonte",
-    "date": "8/1/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "110011",
-    "driverName": "WELINGTON NUNES",
-    "hub": "3PL08",
-    "br": "BR2615425604401",
-    "seller": "Dulojashoes",
-    "city": "Nova Serrana",
     "date": "8/1/2026",
     "aging": "3",
     "status": "Em validacao operacional",
@@ -9178,6 +9154,30 @@
     "aging": "3",
     "status": "Em validacao operacional",
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "2897298",
+    "driverName": "EDSON ROBERTO AQUINO IZIDIO",
+    "hub": "3PL08",
+    "br": "BR265619538289P",
+    "seller": "BODE SHOES",
+    "city": "Nova Serrana",
+    "date": "8/1/2026",
+    "aging": "3",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "110011",
+    "driverName": "WELINGTON NUNES",
+    "hub": "3PL08",
+    "br": "BR2615425604401",
+    "seller": "Dulojashoes",
+    "city": "Nova Serrana",
+    "date": "8/1/2026",
+    "aging": "3",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
   },
   {
     "driverId": "98609",
