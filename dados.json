@@ -4956,18 +4956,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "26720",
-    "driverName": "Kelly de oliveira lima ramos",
-    "hub": "MG2",
-    "br": "BR2628047950565",
-    "seller": "Origen Digital",
-    "city": "Belo Horizonte",
-    "date": "7/31/2026",
-    "aging": "4",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "106420",
     "driverName": "GUSTAVO HENRIQUE DA SILVEIRA REIS",
     "hub": "VAG",
@@ -5280,18 +5268,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "26720",
-    "driverName": "Kelly de oliveira lima ramos",
-    "hub": "MG2",
-    "br": "BR264497564646K",
-    "seller": "Origen Digital",
-    "city": "Belo Horizonte",
-    "date": "7/31/2026",
-    "aging": "4",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "1630492",
     "driverName": "MARCOS PAULO COSTA FERRAZ",
     "hub": "3PL08",
@@ -5409,7 +5385,7 @@
     "date": "7/31/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2406734",
@@ -5976,18 +5952,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "312222",
-    "driverName": "JULIANO DA MATA MAGALHAES",
-    "hub": "3PL08",
-    "br": "BR262810497389H",
-    "seller": "TNT OUTLOOK CALÇADOS LTDA",
-    "city": "Nova Serrana",
-    "date": "8/1/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "2053249",
     "driverName": "MAILSON BUENO DA COSTA",
     "hub": "VAG",
@@ -5998,18 +5962,6 @@
     "aging": "3",
     "status": "Em validacao operacional",
     "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
-  },
-  {
-    "driverId": "312222",
-    "driverName": "JULIANO DA MATA MAGALHAES",
-    "hub": "3PL08",
-    "br": "BR2684566951978",
-    "seller": "TNT OUTLOOK CALÇADOS LTDA",
-    "city": "Nova Serrana",
-    "date": "8/1/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
     "driverId": "3478129",
@@ -6114,18 +6066,6 @@
     "br": "BR269070853458C",
     "seller": "SPN MARKET",
     "city": "Uberlândia",
-    "date": "8/1/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "312222",
-    "driverName": "JULIANO DA MATA MAGALHAES",
-    "hub": "3PL08",
-    "br": "BR2612870291145",
-    "seller": "TNT OUTLOOK CALÇADOS LTDA",
-    "city": "Nova Serrana",
     "date": "8/1/2026",
     "aging": "3",
     "status": "Em validacao operacional",
@@ -6306,18 +6246,6 @@
     "br": "BR267370065201F",
     "seller": "mypetone",
     "city": "Belo Horizonte",
-    "date": "8/1/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "312222",
-    "driverName": "JULIANO DA MATA MAGALHAES",
-    "hub": "3PL08",
-    "br": "BR260043000053V",
-    "seller": "TNT OUTLOOK CALÇADOS LTDA",
-    "city": "Nova Serrana",
     "date": "8/1/2026",
     "aging": "3",
     "status": "Em validacao operacional",
@@ -8820,6 +8748,18 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "26720",
+    "driverName": "Kelly de oliveira lima ramos",
+    "hub": "MG2",
+    "br": "BR2628047950565",
+    "seller": "Origen Digital",
+    "city": "Belo Horizonte",
+    "date": "7/31/2026",
+    "aging": "4",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "284802",
     "driverName": "Lydia Aparecida dos Santos Maia",
     "hub": "3PL08",
@@ -8828,6 +8768,54 @@
     "city": "Nova Serrana",
     "date": "7/31/2026",
     "aging": "4",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "26720",
+    "driverName": "Kelly de oliveira lima ramos",
+    "hub": "MG2",
+    "br": "BR264497564646K",
+    "seller": "Origen Digital",
+    "city": "Belo Horizonte",
+    "date": "7/31/2026",
+    "aging": "4",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "312222",
+    "driverName": "JULIANO DA MATA MAGALHAES",
+    "hub": "3PL08",
+    "br": "BR262810497389H",
+    "seller": "TNT OUTLOOK CALÇADOS LTDA",
+    "city": "Nova Serrana",
+    "date": "8/1/2026",
+    "aging": "3",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "312222",
+    "driverName": "JULIANO DA MATA MAGALHAES",
+    "hub": "3PL08",
+    "br": "BR2684566951978",
+    "seller": "TNT OUTLOOK CALÇADOS LTDA",
+    "city": "Nova Serrana",
+    "date": "8/1/2026",
+    "aging": "3",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "312222",
+    "driverName": "JULIANO DA MATA MAGALHAES",
+    "hub": "3PL08",
+    "br": "BR2612870291145",
+    "seller": "TNT OUTLOOK CALÇADOS LTDA",
+    "city": "Nova Serrana",
+    "date": "8/1/2026",
+    "aging": "3",
     "status": "Em validacao operacional",
     "action": "Acompanhar evolucao."
   },
@@ -8861,6 +8849,18 @@
     "hub": "3PL08",
     "br": "BR2679644124215",
     "seller": "BODE SHOES",
+    "city": "Nova Serrana",
+    "date": "8/1/2026",
+    "aging": "3",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "312222",
+    "driverName": "JULIANO DA MATA MAGALHAES",
+    "hub": "3PL08",
+    "br": "BR260043000053V",
+    "seller": "TNT OUTLOOK CALÇADOS LTDA",
     "city": "Nova Serrana",
     "date": "8/1/2026",
     "aging": "3",
