@@ -3609,7 +3609,7 @@
     "date": "7/30/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "82534",
@@ -7740,18 +7740,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "202819",
-    "driverName": "Lucas Ferreira dias",
-    "hub": "MG2",
-    "br": "BR266933967225Q",
-    "seller": "Pega Pega Utilidades",
-    "city": "Sarzedo",
-    "date": "8/1/2026",
-    "aging": "3",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "160440",
     "driverName": "edimilson jose da silva junior",
     "hub": "JDF",
@@ -8958,6 +8946,18 @@
     "br": "BR2668134517312",
     "seller": "DEED SHOES",
     "city": "Nova Serrana",
+    "date": "8/1/2026",
+    "aging": "3",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "202819",
+    "driverName": "Lucas Ferreira dias",
+    "hub": "MG2",
+    "br": "BR266933967225Q",
+    "seller": "Pega Pega Utilidades",
+    "city": "Sarzedo",
     "date": "8/1/2026",
     "aging": "3",
     "status": "Em validacao operacional",
