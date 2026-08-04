@@ -2169,7 +2169,7 @@
     "date": "7/30/2026",
     "aging": "6",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1932496",
@@ -2193,7 +2193,7 @@
     "date": "7/30/2026",
     "aging": "6",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "234991",
@@ -3741,7 +3741,7 @@
     "date": "7/31/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1932496",
@@ -3849,7 +3849,7 @@
     "date": "7/31/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3315206",
@@ -3933,7 +3933,7 @@
     "date": "8/1/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2090318",
@@ -4653,7 +4653,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Acompanhar evolucao."
   },
   {
     "driverId": "2113814",
@@ -4698,18 +4698,6 @@
     "br": "BR2646684417608",
     "seller": "Acores Motos",
     "city": "Guarapari",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "98583",
-    "driverName": "JOAO ANTONIO FONSECA DE SOUZA",
-    "hub": "GOV",
-    "br": "BR2657320294439",
-    "seller": "Luardecore",
-    "city": "Governador Valadares",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -6984,18 +6972,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR260492005749C",
-    "seller": "Thaina de Oliveira Norbano",
-    "city": "Serra",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "1932496",
     "driverName": "MARCOS SIDNEY DE LIMA",
     "hub": "3PL08",
@@ -7344,18 +7320,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR267575153621F",
-    "seller": "kleber Rodrigo Barbosa",
-    "city": "Serra",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "1488291",
     "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
     "hub": "ES2",
@@ -7446,18 +7410,6 @@
     "br": "BR267316595688Y",
     "seller": "Suyaho motos",
     "city": "Uberaba",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "160366",
-    "driverName": "Deisiane Regina Santos Xavier",
-    "hub": "3PL08",
-    "br": "BR269845810568T",
-    "seller": "Hava ONLINE",
-    "city": "Nova Serrana",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -8400,18 +8352,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR267634009564B",
-    "seller": "Thaina de Oliveira Norbano",
-    "city": "Serra",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "125593",
     "driverName": "Vicente Pinheiro",
     "hub": "3PL08",
@@ -8705,18 +8645,6 @@
     "hub": "3PL08",
     "br": "BR269027175017V",
     "seller": "Asapoks",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "3590019",
-    "driverName": "PAULO HENRIQUE SANTOS SILVA",
-    "hub": "3PL08",
-    "br": "BR267295221590T",
-    "seller": "Full Slipper",
     "city": "Nova Serrana",
     "date": "8/3/2026",
     "aging": "2",
@@ -10146,18 +10074,6 @@
     "br": "BR2673601646881",
     "seller": "Universo do Calçado",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR262588514611C",
-    "seller": "Thaina de Oliveira Norbano",
-    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -12177,7 +12093,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2648449",
@@ -12474,18 +12390,6 @@
     "br": "BR268042041780T",
     "seller": "ESPAÇO DE BICHO",
     "city": "Uberlândia",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR2697380012834",
-    "seller": "JULIANA DA SILVA DOS SANTOS LTDA",
-    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -13044,18 +12948,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "544898",
-    "driverName": "ROGERIO DE SOUZA COSTA",
-    "hub": "GOV",
-    "br": "BR261205058065E",
-    "seller": "ANDERSON CARDOZO BATISTA 04555931670",
-    "city": "Teófilo Otoni",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "96213",
     "driverName": "MATHEUS COSTA DE FARIA",
     "hub": "3PL08",
@@ -13404,18 +13296,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR261181740796O",
-    "seller": "kleber Rodrigo Barbosa",
-    "city": "Serra",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "1326308",
     "driverName": "GABRIELA CAMPOS COSTA FERNANDES",
     "hub": "3PL08",
@@ -13566,18 +13446,6 @@
     "br": "BR260717344476B",
     "seller": "FREEDOM CALCADOS LTDA",
     "city": "Araújos",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR2690344035624",
-    "seller": "kleber Rodrigo Barbosa",
-    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -15180,18 +15048,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "102683",
-    "driverName": "Lucas Xavier de Souza",
-    "hub": "3PL08",
-    "br": "BR2612282665826",
-    "seller": "ZAFIRA FÁBRICA",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "197901",
     "driverName": "Jonas Antonio Costa",
     "hub": "MG2",
@@ -15798,18 +15654,6 @@
     "br": "BR263755198471N",
     "seller": "JulioShoes",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "98583",
-    "driverName": "JOAO ANTONIO FONSECA DE SOUZA",
-    "hub": "GOV",
-    "br": "BR262158311797A",
-    "seller": "61.770.175 GABRIELA FERNANDA DA SILVA SANTOS",
-    "city": "Governador Valadares",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -16569,7 +16413,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1271651",
@@ -16905,7 +16749,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2213032",
@@ -16938,18 +16782,6 @@
     "br": "BR2669383828385",
     "seller": "JulioShoes",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR266045448209H",
-    "seller": "beloclique.com.br",
-    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -17478,18 +17310,6 @@
     "br": "BR263933928360J",
     "seller": "Uai Magazine 02",
     "city": "Lagoa da Prata",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "3590019",
-    "driverName": "PAULO HENRIQUE SANTOS SILVA",
-    "hub": "3PL08",
-    "br": "BR2628084666525",
-    "seller": "Full Slipper",
-    "city": "Nova Serrana",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -18969,7 +18789,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1271651",
@@ -19050,18 +18870,6 @@
     "br": "BR263976777118T",
     "seller": "COLORARTE LTDA",
     "city": "Uberlândia",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR2617070849916",
-    "seller": "CRISTINA R LOPES PAPELARIAA",
-    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -20598,18 +20406,6 @@
     "br": "BR268160588981U",
     "seller": "HELENA CALÇADOS",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR267942662494R",
-    "seller": "beloclique.com.br",
-    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -22953,7 +22749,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2897298",
@@ -22977,7 +22773,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2113814",
@@ -22998,18 +22794,6 @@
     "br": "BR263616108959M",
     "seller": "calçados azuz",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR261262276163V",
-    "seller": "beloclique.com.br",
-    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -24066,18 +23850,6 @@
     "br": "BR269716667941Y",
     "seller": "calçados azuz",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "98583",
-    "driverName": "JOAO ANTONIO FONSECA DE SOUZA",
-    "hub": "GOV",
-    "br": "BR260438445643X",
-    "seller": "Luardecore",
-    "city": "Governador Valadares",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -26028,18 +25800,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR263937925269S",
-    "seller": "Atacado São Paulo",
-    "city": "Serra",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "309648",
     "driverName": "CARLOS ROBERTO CORREA BRETAS",
     "hub": "ES2",
@@ -26736,36 +26496,12 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "98583",
-    "driverName": "JOAO ANTONIO FONSECA DE SOUZA",
-    "hub": "GOV",
-    "br": "BR264599340308U",
-    "seller": "Luardecore",
-    "city": "Governador Valadares",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "638687",
     "driverName": "DOUGLAS ESPINDOLA RIBEIRO",
     "hub": "3PL08",
     "br": "BR266450082119A",
     "seller": "BODE SHOES",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR263872417791N",
-    "seller": "FarmaSilva ",
-    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -30660,18 +30396,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "160366",
-    "driverName": "Deisiane Regina Santos Xavier",
-    "hub": "3PL08",
-    "br": "BR268151508654E",
-    "seller": "Chinelaria Top",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "2113814",
     "driverName": "JEAN VICTOR RAMARDIS CHAVES",
     "hub": "3PL08",
@@ -31332,18 +31056,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR2633382248881",
-    "seller": "CRISTINA R LOPES PAPELARIAA",
-    "city": "Serra",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "155279",
     "driverName": "MARCO JOSE DIAS",
     "hub": "MG2",
@@ -31812,18 +31524,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "98583",
-    "driverName": "JOAO ANTONIO FONSECA DE SOUZA",
-    "hub": "GOV",
-    "br": "BR268398340866D",
-    "seller": "Luardecore",
-    "city": "Governador Valadares",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "26982",
     "driverName": "Paulo Sergio Pires",
     "hub": "JDF",
@@ -32154,18 +31854,6 @@
     "br": "BR267729775104Z",
     "seller": "MILARMAQ MAQUINAS",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR261042974971A",
-    "seller": "kleber Rodrigo Barbosa",
-    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -33216,18 +32904,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "96144",
-    "driverName": "Eduardo Alves Teixeira",
-    "hub": "3PL08",
-    "br": "BR269821328649S",
-    "seller": "Verony_2",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "2087182",
     "driverName": "BEATRIZ DOS SANTOS FERREIRA",
     "hub": "3PL08",
@@ -33708,18 +33384,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "259174",
-    "driverName": "JESIEL DE OLIVEIRA COELHO",
-    "hub": "3PL08",
-    "br": "BR265999919980Z",
-    "seller": "Full Slipper",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "166700",
     "driverName": "EVERTON BORGES SALGADO",
     "hub": "UDI",
@@ -34044,36 +33708,12 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR2677432214061",
-    "seller": "Thaina de Oliveira Norbano",
-    "city": "Serra",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "2408546",
     "driverName": "ALIF ALEIXO DE MORAIS",
     "hub": "3PL08",
     "br": "BR269364201415F",
     "seller": "JLSCalçados",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR262667900496S",
-    "seller": "beloclique.com.br",
-    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -34265,18 +33905,6 @@
     "hub": "3PL08",
     "br": "BR260047260577H",
     "seller": "Full Slipper",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "96144",
-    "driverName": "Eduardo Alves Teixeira",
-    "hub": "3PL08",
-    "br": "BR2624561512720",
-    "seller": "Mariah Calçados",
     "city": "Nova Serrana",
     "date": "8/3/2026",
     "aging": "2",
@@ -34674,18 +34302,6 @@
     "br": "BR263217535426W",
     "seller": "Dona Cor",
     "city": "Uberlândia",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "16412",
-    "driverName": "Alex Martins barbosa",
-    "hub": "ES2",
-    "br": "BR267155944007Z",
-    "seller": "kleber Rodrigo Barbosa",
-    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -35376,18 +34992,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "96144",
-    "driverName": "Eduardo Alves Teixeira",
-    "hub": "3PL08",
-    "br": "BR266349181143E",
-    "seller": "terramarescalcados",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "581234",
     "driverName": "YAN CHRISTI GONCALVES",
     "hub": "UDI",
@@ -35733,7 +35337,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2408546",
@@ -36369,7 +35973,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1673698",
@@ -37176,6 +36780,18 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "160366",
+    "driverName": "Deisiane Regina Santos Xavier",
+    "hub": "3PL08",
+    "br": "BR269845810568T",
+    "seller": "Hava ONLINE",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "1630492",
     "driverName": "MARCOS PAULO COSTA FERRAZ",
     "hub": "3PL08",
@@ -37193,6 +36809,18 @@
     "hub": "3PL08",
     "br": "BR267616776440Y",
     "seller": "time shoess",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "3590019",
+    "driverName": "PAULO HENRIQUE SANTOS SILVA",
+    "hub": "3PL08",
+    "br": "BR267295221590T",
+    "seller": "Full Slipper",
     "city": "Nova Serrana",
     "date": "8/3/2026",
     "aging": "2",
@@ -37236,6 +36864,18 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "102683",
+    "driverName": "Lucas Xavier de Souza",
+    "hub": "3PL08",
+    "br": "BR2612282665826",
+    "seller": "ZAFIRA FÁBRICA",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "134113",
     "driverName": "Camilla Aryane Ferreira de Oliveira",
     "hub": "3PL08",
@@ -37253,6 +36893,18 @@
     "hub": "3PL08",
     "br": "BR2605084995738",
     "seller": "DEED SHOES",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "3590019",
+    "driverName": "PAULO HENRIQUE SANTOS SILVA",
+    "hub": "3PL08",
+    "br": "BR2628084666525",
+    "seller": "Full Slipper",
     "city": "Nova Serrana",
     "date": "8/3/2026",
     "aging": "2",
@@ -37404,6 +37056,18 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "160366",
+    "driverName": "Deisiane Regina Santos Xavier",
+    "hub": "3PL08",
+    "br": "BR268151508654E",
+    "seller": "Chinelaria Top",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "259157",
     "driverName": "André Luis Martins da silva",
     "hub": "3PL08",
@@ -37440,11 +37104,47 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "96144",
+    "driverName": "Eduardo Alves Teixeira",
+    "hub": "3PL08",
+    "br": "BR269821328649S",
+    "seller": "Verony_2",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "259174",
+    "driverName": "JESIEL DE OLIVEIRA COELHO",
+    "hub": "3PL08",
+    "br": "BR265999919980Z",
+    "seller": "Full Slipper",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "2140454",
     "driverName": "MARCOS VINICIUS FERREIRA DA SILVA",
     "hub": "3PL08",
     "br": "BR269088919234X",
     "seller": "BODE SHOES",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "96144",
+    "driverName": "Eduardo Alves Teixeira",
+    "hub": "3PL08",
+    "br": "BR2624561512720",
+    "seller": "Mariah Calçados",
     "city": "Nova Serrana",
     "date": "8/3/2026",
     "aging": "2",
@@ -37464,6 +37164,18 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "96144",
+    "driverName": "Eduardo Alves Teixeira",
+    "hub": "3PL08",
+    "br": "BR266349181143E",
+    "seller": "terramarescalcados",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "26844",
     "driverName": "Márcia Dos Santos Homem",
     "hub": "BHZ",
@@ -37473,6 +37185,30 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "98583",
+    "driverName": "JOAO ANTONIO FONSECA DE SOUZA",
+    "hub": "GOV",
+    "br": "BR2657320294439",
+    "seller": "Luardecore",
+    "city": "Governador Valadares",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR260492005749C",
+    "seller": "Thaina de Oliveira Norbano",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
     "action": "Acompanhar evolucao."
   },
   {
@@ -37493,6 +37229,30 @@
     "hub": "ES2",
     "br": "BR2691116057462",
     "seller": "MixMania BR",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR267575153621F",
+    "seller": "kleber Rodrigo Barbosa",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR267634009564B",
+    "seller": "Thaina de Oliveira Norbano",
     "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
@@ -37524,12 +37284,84 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR262588514611C",
+    "seller": "Thaina de Oliveira Norbano",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "62160",
     "driverName": "yuri okuma",
     "hub": "JDF",
     "br": "BR2610877258721",
     "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
     "city": "Juiz de Fora",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR2697380012834",
+    "seller": "JULIANA DA SILVA DOS SANTOS LTDA",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "544898",
+    "driverName": "ROGERIO DE SOUZA COSTA",
+    "hub": "GOV",
+    "br": "BR261205058065E",
+    "seller": "ANDERSON CARDOZO BATISTA 04555931670",
+    "city": "Teófilo Otoni",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR261181740796O",
+    "seller": "kleber Rodrigo Barbosa",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR2690344035624",
+    "seller": "kleber Rodrigo Barbosa",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "98583",
+    "driverName": "JOAO ANTONIO FONSECA DE SOUZA",
+    "hub": "GOV",
+    "br": "BR262158311797A",
+    "seller": "61.770.175 GABRIELA FERNANDA DA SILVA SANTOS",
+    "city": "Governador Valadares",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
@@ -37548,12 +37380,36 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR266045448209H",
+    "seller": "beloclique.com.br",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "160440",
     "driverName": "edimilson jose da silva junior",
     "hub": "JDF",
     "br": "BR266227477708S",
     "seller": "OUZZADIA MODAS",
     "city": "Mar de Espanha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR2617070849916",
+    "seller": "CRISTINA R LOPES PAPELARIAA",
+    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
@@ -37584,6 +37440,18 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR267942662494R",
+    "seller": "beloclique.com.br",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "3855445",
     "driverName": "LAYWAN LUCIO RODRIGUES",
     "hub": "ES2",
@@ -37596,12 +37464,36 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR261262276163V",
+    "seller": "beloclique.com.br",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "3482484",
     "driverName": "ALAN ZUPELI RISSARI",
     "hub": "ES2",
     "br": "BR2684833376866",
     "seller": "Santa Luzia Material de Construção",
     "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "98583",
+    "driverName": "JOAO ANTONIO FONSECA DE SOUZA",
+    "hub": "GOV",
+    "br": "BR260438445643X",
+    "seller": "Luardecore",
+    "city": "Governador Valadares",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
@@ -37649,6 +37541,42 @@
     "hub": "ES2",
     "br": "BR261997831123Q",
     "seller": "MixMania BR",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR263937925269S",
+    "seller": "Atacado São Paulo",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "98583",
+    "driverName": "JOAO ANTONIO FONSECA DE SOUZA",
+    "hub": "GOV",
+    "br": "BR264599340308U",
+    "seller": "Luardecore",
+    "city": "Governador Valadares",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR263872417791N",
+    "seller": "FarmaSilva ",
     "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
@@ -37704,12 +37632,36 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR2633382248881",
+    "seller": "CRISTINA R LOPES PAPELARIAA",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "2407732",
     "driverName": "PABLO BALBINO TOSTES",
     "hub": "JDF",
     "br": "BR2615530337986",
     "seller": "JOAREZ SOARES DA SILVA LIMA FILHO 072.408.256-55",
     "city": "Ubá",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "98583",
+    "driverName": "JOAO ANTONIO FONSECA DE SOUZA",
+    "hub": "GOV",
+    "br": "BR268398340866D",
+    "seller": "Luardecore",
+    "city": "Governador Valadares",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
@@ -37728,12 +37680,60 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR261042974971A",
+    "seller": "kleber Rodrigo Barbosa",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR2677432214061",
+    "seller": "Thaina de Oliveira Norbano",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR262667900496S",
+    "seller": "beloclique.com.br",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "62160",
     "driverName": "yuri okuma",
     "hub": "JDF",
     "br": "BR2696034387219",
     "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
     "city": "Juiz de Fora",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "16412",
+    "driverName": "Alex Martins barbosa",
+    "hub": "ES2",
+    "br": "BR267155944007Z",
+    "seller": "kleber Rodrigo Barbosa",
+    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
