@@ -3129,7 +3129,7 @@
     "date": "7/31/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "106420",
@@ -3453,7 +3453,7 @@
     "date": "7/31/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1576955",
@@ -3489,7 +3489,7 @@
     "date": "7/31/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1932496",
@@ -3741,7 +3741,7 @@
     "date": "7/31/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1932496",
@@ -8898,18 +8898,6 @@
     "br": "BR2607464999422",
     "seller": "We Love | Loja Oficial",
     "city": "Uberlândia",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "3379671",
-    "driverName": "ERIK DILLON MENDONCA VIDAL",
-    "hub": "3PL08",
-    "br": "BR268156323403T",
-    "seller": "Distribuidora Maia LTDA",
-    "city": "Pitangui",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -17328,18 +17316,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "134113",
-    "driverName": "Camilla Aryane Ferreira de Oliveira",
-    "hub": "3PL08",
-    "br": "BR269645740826D",
-    "seller": "Loritta Calçados",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "140383",
     "driverName": "David Filipe Soares Da Silva",
     "hub": "3PL08",
@@ -18498,18 +18474,6 @@
     "br": "BR2610216145442",
     "seller": "M&T COMERCIO LTDA",
     "city": "Marataízes",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2154387",
-    "driverName": "KEITH PAULINELLI BARBOSA",
-    "hub": "ES2",
-    "br": "BR2641919909997",
-    "seller": "50.686.208 TIAGO PAULO DE FREITAS",
-    "city": "Vitória",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -21444,18 +21408,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2154387",
-    "driverName": "KEITH PAULINELLI BARBOSA",
-    "hub": "ES2",
-    "br": "BR267960960137E",
-    "seller": "Vitoria Flores Oficial (BVV)",
-    "city": "Vitória",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "2408546",
     "driverName": "ALIF ALEIXO DE MORAIS",
     "hub": "3PL08",
@@ -23454,18 +23406,6 @@
     "br": "BR267449937307F",
     "seller": "JEMAX COMERCIO",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "2154387",
-    "driverName": "KEITH PAULINELLI BARBOSA",
-    "hub": "ES2",
-    "br": "BR2683861750738",
-    "seller": "A2 Perfumaria",
-    "city": "Vitória",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -30534,18 +30474,6 @@
     "br": "BR265828383936C",
     "seller": "M&T COMERCIO LTDA",
     "city": "Marataízes",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "1238447",
-    "driverName": "GILBERTO MAURÍCIO MARCIANO DE OLIVEIRA DA SILVA",
-    "hub": "3PL08",
-    "br": "BR266965806248V",
-    "seller": "LACERDA GAIPO CALÇADOS LTDA",
-    "city": "Perdigão",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -37752,6 +37680,42 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "3379671",
+    "driverName": "ERIK DILLON MENDONCA VIDAL",
+    "hub": "3PL08",
+    "br": "BR268156323403T",
+    "seller": "Distribuidora Maia LTDA",
+    "city": "Pitangui",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "134113",
+    "driverName": "Camilla Aryane Ferreira de Oliveira",
+    "hub": "3PL08",
+    "br": "BR269645740826D",
+    "seller": "Loritta Calçados",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "1238447",
+    "driverName": "GILBERTO MAURÍCIO MARCIANO DE OLIVEIRA DA SILVA",
+    "hub": "3PL08",
+    "br": "BR266965806248V",
+    "seller": "LACERDA GAIPO CALÇADOS LTDA",
+    "city": "Perdigão",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "3482484",
     "driverName": "ALAN ZUPELI RISSARI",
     "hub": "ES2",
@@ -37770,6 +37734,42 @@
     "br": "BR268160382560P",
     "seller": "Eico Profissional",
     "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2154387",
+    "driverName": "KEITH PAULINELLI BARBOSA",
+    "hub": "ES2",
+    "br": "BR2641919909997",
+    "seller": "50.686.208 TIAGO PAULO DE FREITAS",
+    "city": "Vitória",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2154387",
+    "driverName": "KEITH PAULINELLI BARBOSA",
+    "hub": "ES2",
+    "br": "BR267960960137E",
+    "seller": "Vitoria Flores Oficial (BVV)",
+    "city": "Vitória",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2154387",
+    "driverName": "KEITH PAULINELLI BARBOSA",
+    "hub": "ES2",
+    "br": "BR2683861750738",
+    "seller": "A2 Perfumaria",
+    "city": "Vitória",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
