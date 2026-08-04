@@ -1845,7 +1845,7 @@
     "date": "7/29/2026",
     "aging": "7",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "234991",
@@ -3093,7 +3093,7 @@
     "date": "7/31/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "581234",
@@ -3549,7 +3549,7 @@
     "date": "7/31/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "123749",
@@ -3909,7 +3909,7 @@
     "date": "8/1/2026",
     "aging": "4",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "309648",
@@ -4290,18 +4290,6 @@
     "br": "BR267531398734M",
     "seller": "S&A Tricot",
     "city": "Borda da Mata",
-    "date": "8/1/2026",
-    "aging": "4",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "873332",
-    "driverName": "WELLISON MOISES DA FONSECA",
-    "hub": "3PL08",
-    "br": "BR264331231778V",
-    "seller": "Cirandinha Shoes",
-    "city": "Perdigão",
     "date": "8/1/2026",
     "aging": "4",
     "status": "Em validacao operacional",
@@ -5169,7 +5157,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "124446",
@@ -7116,18 +7104,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "62160",
-    "driverName": "yuri okuma",
-    "hub": "JDF",
-    "br": "BR2682155396173",
-    "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
-    "city": "Juiz de Fora",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "3567531",
     "driverName": "ALAN UDSON GONCALVES",
     "hub": "3PL08",
@@ -7266,18 +7242,6 @@
     "br": "BR2677225842241",
     "seller": "BODE SHOES",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "1316454",
-    "driverName": "DENILSON NASCIMENTO DA ROCHA",
-    "hub": "ES2",
-    "br": "BR2691116057462",
-    "seller": "MixMania BR",
-    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -7641,7 +7605,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "96213",
@@ -8712,18 +8676,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "205613",
-    "driverName": "Alex Will de Araujo",
-    "hub": "ES2",
-    "br": "BR268871726122Z",
-    "seller": "DOCE CLOSET KIDS LTDA",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "1576955",
     "driverName": "RICARDO LUIZ BENEDITO",
     "hub": "UDI",
@@ -9654,18 +9606,6 @@
     "br": "BR263200870103A",
     "seller": "MILARMAQ MAQUINAS",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "3523338",
-    "driverName": "OTAVIO CASTELAR MACHADO",
-    "hub": "ES2",
-    "br": "BR265086979925Q",
-    "seller": "GrupoTBG",
-    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -12384,18 +12324,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "62160",
-    "driverName": "yuri okuma",
-    "hub": "JDF",
-    "br": "BR2610877258721",
-    "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
-    "city": "Juiz de Fora",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "873332",
     "driverName": "WELLISON MOISES DA FONSECA",
     "hub": "3PL08",
@@ -14505,7 +14433,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1932496",
@@ -20976,18 +20904,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "123937",
-    "driverName": "Karine Ferreira Barbosa",
-    "hub": "3PL08",
-    "br": "BR267567142813U",
-    "seller": "Titan Store_",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "1932496",
     "driverName": "MARCOS SIDNEY DE LIMA",
     "hub": "3PL08",
@@ -21714,18 +21630,6 @@
     "br": "BR2626103087065",
     "seller": "ATF_SHOES",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "3855445",
-    "driverName": "LAYWAN LUCIO RODRIGUES",
-    "hub": "ES2",
-    "br": "BR269936230746B",
-    "seller": "souza e meireles comercio varejista ltda",
-    "city": "Marataízes",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -24024,18 +23928,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "123937",
-    "driverName": "Karine Ferreira Barbosa",
-    "hub": "3PL08",
-    "br": "BR269726335754D",
-    "seller": "Shop Cia dos Pés",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "2647393",
     "driverName": "Abel Vinícius Ferreira",
     "hub": "LPA",
@@ -24186,18 +24078,6 @@
     "br": "BR260438445643X",
     "seller": "Luardecore",
     "city": "Governador Valadares",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "62160",
-    "driverName": "yuri okuma",
-    "hub": "JDF",
-    "br": "BR2651745155613",
-    "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
-    "city": "Juiz de Fora",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -25152,18 +25032,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "3855445",
-    "driverName": "LAYWAN LUCIO RODRIGUES",
-    "hub": "ES2",
-    "br": "BR269130335754K",
-    "seller": "BIG MARCAS E-COMMERCE",
-    "city": "Anchieta",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "2113814",
     "driverName": "JEAN VICTOR RAMARDIS CHAVES",
     "hub": "3PL08",
@@ -25749,7 +25617,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "122760",
@@ -26130,18 +25998,6 @@
     "br": "BR268874104309J",
     "seller": "Show Calcados",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "1316454",
-    "driverName": "DENILSON NASCIMENTO DA ROCHA",
-    "hub": "ES2",
-    "br": "BR261997831123Q",
-    "seller": "MixMania BR",
-    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -30672,18 +30528,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "62160",
-    "driverName": "yuri okuma",
-    "hub": "JDF",
-    "br": "BR2608670720589",
-    "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
-    "city": "Juiz de Fora",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "179413",
     "driverName": "Leonidio Soares Campos",
     "hub": "BHZ",
@@ -32952,18 +32796,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "259285",
-    "driverName": "Washington Luiz Salvino",
-    "hub": "BHZ",
-    "br": "BR2626508719508",
-    "seller": "CLICOU E CHEGOU",
-    "city": "Belo Horizonte",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "873332",
     "driverName": "WELLISON MOISES DA FONSECA",
     "hub": "3PL08",
@@ -33185,18 +33017,6 @@
     "hub": "3PL08",
     "br": "BR266063372825V",
     "seller": "Supra_shoes",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "68959",
-    "driverName": "MARCIANE GOMES DA SILVA FARIA",
-    "hub": "3PL08",
-    "br": "BR261694821831I",
-    "seller": "Duboo comercio de calçados",
     "city": "Nova Serrana",
     "date": "8/3/2026",
     "aging": "2",
@@ -34116,18 +33936,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2140454",
-    "driverName": "MARCOS VINICIUS FERREIRA DA SILVA",
-    "hub": "3PL08",
-    "br": "BR269088919234X",
-    "seller": "BODE SHOES",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "923191",
     "driverName": "FIGUEIREDO RODRIGUES DA SILVA",
     "hub": "ES2",
@@ -34482,18 +34290,6 @@
     "br": "BR2667961399141",
     "seller": "Alfa ",
     "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "62160",
-    "driverName": "yuri okuma",
-    "hub": "JDF",
-    "br": "BR2696034387219",
-    "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
-    "city": "Juiz de Fora",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -34977,7 +34773,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "144524",
@@ -36012,18 +35808,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "1316454",
-    "driverName": "DENILSON NASCIMENTO DA ROCHA",
-    "hub": "ES2",
-    "br": "BR263827543063R",
-    "seller": "MixMania BR",
-    "city": "Serra",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "1271651",
     "driverName": "MARCELO SOARES SILVA",
     "hub": "3PL08",
@@ -36222,18 +36006,6 @@
     "br": "BR265766393817K",
     "seller": "Evans Comercio de Artefatos de Borracha Ltda",
     "city": "Uberlândia",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "3855445",
-    "driverName": "LAYWAN LUCIO RODRIGUES",
-    "hub": "ES2",
-    "br": "BR261101780920N",
-    "seller": "Nutri Nobre",
-    "city": "Marataízes",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -37356,6 +37128,18 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "873332",
+    "driverName": "WELLISON MOISES DA FONSECA",
+    "hub": "3PL08",
+    "br": "BR264331231778V",
+    "seller": "Cirandinha Shoes",
+    "city": "Perdigão",
+    "date": "8/1/2026",
+    "aging": "4",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "1630492",
     "driverName": "MARCOS PAULO COSTA FERRAZ",
     "hub": "3PL08",
@@ -37512,6 +37296,18 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "123937",
+    "driverName": "Karine Ferreira Barbosa",
+    "hub": "3PL08",
+    "br": "BR267567142813U",
+    "seller": "Titan Store_",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "131198",
     "driverName": "Icaro Peter Dias da Silva",
     "hub": "3PL08",
@@ -37530,6 +37326,18 @@
     "br": "BR266965806248V",
     "seller": "LACERDA GAIPO CALÇADOS LTDA",
     "city": "Perdigão",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "123937",
+    "driverName": "Karine Ferreira Barbosa",
+    "hub": "3PL08",
+    "br": "BR269726335754D",
+    "seller": "Shop Cia dos Pés",
+    "city": "Nova Serrana",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -37608,6 +37416,42 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "259285",
+    "driverName": "Washington Luiz Salvino",
+    "hub": "BHZ",
+    "br": "BR2626508719508",
+    "seller": "CLICOU E CHEGOU",
+    "city": "Belo Horizonte",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "68959",
+    "driverName": "MARCIANE GOMES DA SILVA FARIA",
+    "hub": "3PL08",
+    "br": "BR261694821831I",
+    "seller": "Duboo comercio de calçados",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "2140454",
+    "driverName": "MARCOS VINICIUS FERREIRA DA SILVA",
+    "hub": "3PL08",
+    "br": "BR269088919234X",
+    "seller": "BODE SHOES",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "3379671",
     "driverName": "ERIK DILLON MENDONCA VIDAL",
     "hub": "3PL08",
@@ -37629,6 +37473,66 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "62160",
+    "driverName": "yuri okuma",
+    "hub": "JDF",
+    "br": "BR2682155396173",
+    "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
+    "city": "Juiz de Fora",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "1316454",
+    "driverName": "DENILSON NASCIMENTO DA ROCHA",
+    "hub": "ES2",
+    "br": "BR2691116057462",
+    "seller": "MixMania BR",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "205613",
+    "driverName": "Alex Will de Araujo",
+    "hub": "ES2",
+    "br": "BR268871726122Z",
+    "seller": "DOCE CLOSET KIDS LTDA",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "3523338",
+    "driverName": "OTAVIO CASTELAR MACHADO",
+    "hub": "ES2",
+    "br": "BR265086979925Q",
+    "seller": "GrupoTBG",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "62160",
+    "driverName": "yuri okuma",
+    "hub": "JDF",
+    "br": "BR2610877258721",
+    "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
+    "city": "Juiz de Fora",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
     "action": "Acompanhar evolucao."
   },
   {
@@ -37680,6 +37584,18 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "3855445",
+    "driverName": "LAYWAN LUCIO RODRIGUES",
+    "hub": "ES2",
+    "br": "BR269936230746B",
+    "seller": "souza e meireles comercio varejista ltda",
+    "city": "Marataízes",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "3482484",
     "driverName": "ALAN ZUPELI RISSARI",
     "hub": "ES2",
@@ -37692,12 +37608,48 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "62160",
+    "driverName": "yuri okuma",
+    "hub": "JDF",
+    "br": "BR2651745155613",
+    "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
+    "city": "Juiz de Fora",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "160440",
     "driverName": "edimilson jose da silva junior",
     "hub": "JDF",
     "br": "BR267639113938T",
     "seller": "GRG COMERCIO",
     "city": "Mar de Espanha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "3855445",
+    "driverName": "LAYWAN LUCIO RODRIGUES",
+    "hub": "ES2",
+    "br": "BR269130335754K",
+    "seller": "BIG MARCAS E-COMMERCE",
+    "city": "Anchieta",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "1316454",
+    "driverName": "DENILSON NASCIMENTO DA ROCHA",
+    "hub": "ES2",
+    "br": "BR261997831123Q",
+    "seller": "MixMania BR",
+    "city": "Serra",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
@@ -37722,6 +37674,18 @@
     "br": "BR2683861750738",
     "seller": "A2 Perfumaria",
     "city": "Vitória",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "62160",
+    "driverName": "yuri okuma",
+    "hub": "JDF",
+    "br": "BR2608670720589",
+    "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
+    "city": "Juiz de Fora",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
@@ -37764,12 +37728,48 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "62160",
+    "driverName": "yuri okuma",
+    "hub": "JDF",
+    "br": "BR2696034387219",
+    "seller": "J R MARCELO - COMERCIO DE MATERIAL MEDICO HOSPITALAR",
+    "city": "Juiz de Fora",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "1079278",
     "driverName": "MARCELO HENRIQUE LIMA SUBTIL",
     "hub": "ES2",
     "br": "BR2684452912050",
     "seller": "BestDream Magazine",
     "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "1316454",
+    "driverName": "DENILSON NASCIMENTO DA ROCHA",
+    "hub": "ES2",
+    "br": "BR263827543063R",
+    "seller": "MixMania BR",
+    "city": "Serra",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em acompanhamento",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "3855445",
+    "driverName": "LAYWAN LUCIO RODRIGUES",
+    "hub": "ES2",
+    "br": "BR261101780920N",
+    "seller": "Nutri Nobre",
+    "city": "Marataízes",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
