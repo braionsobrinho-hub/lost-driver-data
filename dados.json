@@ -2577,7 +2577,7 @@
     "date": "7/30/2026",
     "aging": "6",
     "status": "Em validacao operacional",
-    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
     "driverId": "1932496",
@@ -3057,7 +3057,7 @@
     "date": "7/31/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
     "driverId": "179405",
@@ -3537,7 +3537,7 @@
     "date": "7/31/2026",
     "aging": "5",
     "status": "Em validacao operacional",
-    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
     "driverId": "106420",
@@ -7320,6 +7320,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2615505815999",
+    "seller": "Alzimar miliorini morais",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
     "driverId": "3817394",
     "driverName": "ALEXANDRE REZENDE JUNIOR",
     "hub": "VAG",
@@ -7518,6 +7530,18 @@
     "br": "BR2623169164372",
     "seller": "Botim Calçados e Variedades",
     "city": "Betim",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR264016807438M",
+    "seller": "Loja Anabela",
+    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -9552,6 +9576,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR269549257735O",
+    "seller": "Loja Anabela",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
     "driverId": "1271651",
     "driverName": "MARCELO SOARES SILVA",
     "hub": "3PL08",
@@ -9990,6 +10026,18 @@
     "br": "BR269060773511S",
     "seller": "Loja Lets Shoes",
     "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR261148238165T",
+    "seller": "Eduardo José lasmar",
+    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -11292,6 +11340,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR262879449156Q",
+    "seller": "Eduardo José lasmar",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
     "driverId": "1673698",
     "driverName": "FABIO SALES DA SILVA",
     "hub": "ES2",
@@ -12393,7 +12453,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Acompanhar evolucao."
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
     "driverId": "26883",
@@ -12990,6 +13050,18 @@
     "br": "BR269444833698Q",
     "seller": "Ramos Calçados IJ",
     "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR264335851121C",
+    "seller": "Eduardo José lasmar",
+    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -15096,6 +15168,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR261434056299N",
+    "seller": "Loja Anabela",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
     "driverId": "144524",
     "driverName": "Felipe Morais Gonzaga",
     "hub": "3PL08",
@@ -15270,6 +15354,18 @@
     "br": "BR261739972758R",
     "seller": "MILARMAQ MAQUINAS",
     "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2685857855811",
+    "seller": "Alzimar miliorini morais",
+    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -16920,6 +17016,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR262847715420I",
+    "seller": "Alzimar miliorini morais",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
     "driverId": "1673698",
     "driverName": "FABIO SALES DA SILVA",
     "hub": "ES2",
@@ -17202,6 +17310,18 @@
     "br": "BR263933928360J",
     "seller": "Uai Magazine 02",
     "city": "Lagoa da Prata",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR265814757681O",
+    "seller": "Eduardo José lasmar",
+    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -18993,7 +19113,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
     "driverId": "1675080",
@@ -19005,7 +19125,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
     "driverId": "2897298",
@@ -19410,6 +19530,18 @@
     "br": "BR2661347226894",
     "seller": "Naturela Shop Distribuidora",
     "city": "Arcos",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR269757209508J",
+    "seller": "Eduardo José lasmar",
+    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -20724,6 +20856,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR267786077777B",
+    "seller": "Diene Gomes da Silva",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
     "driverId": "1673698",
     "driverName": "FABIO SALES DA SILVA",
     "hub": "ES2",
@@ -21330,6 +21474,18 @@
     "br": "BR268458487818B",
     "seller": "Full Slipper",
     "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2691516288153",
+    "seller": "Diene Gomes da Silva",
+    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -22146,6 +22302,18 @@
     "br": "BR267910132774U",
     "seller": "MATHEUS FERNANDES RIBEIRO SILVA",
     "city": "Araújos",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2678844644048",
+    "seller": "JP.Bikes",
+    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -23064,6 +23232,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR265256569576W",
+    "seller": "Alzimar miliorini morais",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
     "driverId": "2089788",
     "driverName": "MARCIANO ANDRADE LIMA",
     "hub": "ES2",
@@ -23472,6 +23652,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2657832470172",
+    "seller": "Eduardo José lasmar",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
     "driverId": "1673698",
     "driverName": "FABIO SALES DA SILVA",
     "hub": "ES2",
@@ -23856,6 +24048,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2684678530189",
+    "seller": "Eduardo José lasmar",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
     "driverId": "2276768",
     "driverName": "RODRIGO CROCE BARCELOS",
     "hub": "ES2",
@@ -23910,6 +24114,18 @@
     "br": "BR266425778966J",
     "seller": "MILARMAQ MAQUINAS",
     "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2667200232405",
+    "seller": "Deyvison Gustavo Dantas Augusto",
+    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -24534,6 +24750,18 @@
     "br": "BR260024181233U",
     "seller": "ADEX COMPONENTES E EMBALAGENS",
     "city": "Perdigão",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR261225799646G",
+    "seller": "Alzimar miliorini morais",
+    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -26070,6 +26298,18 @@
     "br": "BR267231939179R",
     "seller": "F.CALCADOS LITDA",
     "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2608675987137",
+    "seller": "Loja Anabela",
+    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -27996,6 +28236,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2683346119105",
+    "seller": "Loja Anabela",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
     "driverId": "125593",
     "driverName": "Vicente Pinheiro",
     "hub": "3PL08",
@@ -28176,6 +28428,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "107229",
+    "driverName": "Diego Tavares De Souza",
+    "hub": "JDF",
+    "br": "BR2686553619998",
+    "seller": "GUILHERME STIEBLER VIEIRA JUNIOR",
+    "city": "Juiz de Fora",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
     "driverId": "125593",
     "driverName": "Vicente Pinheiro",
     "hub": "3PL08",
@@ -28350,6 +28614,18 @@
     "br": "BR264107669971Y",
     "seller": "SEX LOG COMERCIO DE PRODUTOS EROTICOS LTDA",
     "city": "Uberlândia",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "107229",
+    "driverName": "Diego Tavares De Souza",
+    "hub": "JDF",
+    "br": "BR262703140362F",
+    "seller": "LOJA CLORIN",
+    "city": "Juiz de Fora",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -29202,6 +29478,30 @@
     "br": "BR2650212729881",
     "seller": "Sophia.shoes",
     "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR266441795146K",
+    "seller": "Diene Gomes da Silva",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR261708867078V",
+    "seller": "Eduardo José lasmar",
+    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -32124,6 +32424,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR2646896548163",
+    "seller": "Alzimar miliorini morais",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
     "driverId": "119392",
     "driverName": "Wallace Eduardo de castro souza",
     "hub": "3PL08",
@@ -34884,6 +35196,18 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
+    "driverId": "1488291",
+    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
+    "hub": "ES2",
+    "br": "BR260821925276W",
+    "seller": "ProBikePecas",
+    "city": "Vila Velha",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
     "driverId": "3009877",
     "driverName": "ANDERSON BREVES FERREIRA",
     "hub": "VAG",
@@ -36924,30 +37248,6 @@
     "action": "Acompanhar evolucao."
   },
   {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2615505815999",
-    "seller": "Alzimar miliorini morais",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR264016807438M",
-    "seller": "Loja Anabela",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
     "driverId": "16412",
     "driverName": "Alex Martins barbosa",
     "hub": "ES2",
@@ -36984,48 +37284,12 @@
     "action": "Acompanhar evolucao."
   },
   {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR269549257735O",
-    "seller": "Loja Anabela",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR261148238165T",
-    "seller": "Eduardo José lasmar",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
     "driverId": "16412",
     "driverName": "Alex Martins barbosa",
     "hub": "ES2",
     "br": "BR262588514611C",
     "seller": "Thaina de Oliveira Norbano",
     "city": "Serra",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR262879449156Q",
-    "seller": "Eduardo José lasmar",
-    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
@@ -37068,18 +37332,6 @@
     "action": "Acompanhar evolucao."
   },
   {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR264335851121C",
-    "seller": "Eduardo José lasmar",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
     "driverId": "16412",
     "driverName": "Alex Martins barbosa",
     "hub": "ES2",
@@ -37098,30 +37350,6 @@
     "br": "BR2690344035624",
     "seller": "kleber Rodrigo Barbosa",
     "city": "Serra",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR261434056299N",
-    "seller": "Loja Anabela",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2685857855811",
-    "seller": "Alzimar miliorini morais",
-    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
@@ -37164,18 +37392,6 @@
     "action": "Acompanhar evolucao."
   },
   {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR262847715420I",
-    "seller": "Alzimar miliorini morais",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
     "driverId": "160440",
     "driverName": "edimilson jose da silva junior",
     "hub": "JDF",
@@ -37188,36 +37404,12 @@
     "action": "Acompanhar evolucao."
   },
   {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR265814757681O",
-    "seller": "Eduardo José lasmar",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
     "driverId": "16412",
     "driverName": "Alex Martins barbosa",
     "hub": "ES2",
     "br": "BR2617070849916",
     "seller": "CRISTINA R LOPES PAPELARIAA",
     "city": "Serra",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR269757209508J",
-    "seller": "Eduardo José lasmar",
-    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
@@ -37260,48 +37452,12 @@
     "action": "Acompanhar evolucao."
   },
   {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR267786077777B",
-    "seller": "Diene Gomes da Silva",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
     "driverId": "3855445",
     "driverName": "LAYWAN LUCIO RODRIGUES",
     "hub": "ES2",
     "br": "BR269936230746B",
     "seller": "souza e meireles comercio varejista ltda",
     "city": "Marataízes",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2691516288153",
-    "seller": "Diene Gomes da Silva",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2678844644048",
-    "seller": "JP.Bikes",
-    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
@@ -37325,30 +37481,6 @@
     "hub": "ES2",
     "br": "BR2684833376866",
     "seller": "Santa Luzia Material de Construção",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR265256569576W",
-    "seller": "Alzimar miliorini morais",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2657832470172",
-    "seller": "Eduardo José lasmar",
     "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
@@ -37380,48 +37512,12 @@
     "action": "Acompanhar evolucao."
   },
   {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2684678530189",
-    "seller": "Eduardo José lasmar",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
     "driverId": "160440",
     "driverName": "edimilson jose da silva junior",
     "hub": "JDF",
     "br": "BR267639113938T",
     "seller": "GRG COMERCIO",
     "city": "Mar de Espanha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2667200232405",
-    "seller": "Deyvison Gustavo Dantas Augusto",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR261225799646G",
-    "seller": "Alzimar miliorini morais",
-    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
@@ -37464,18 +37560,6 @@
     "action": "Acompanhar evolucao."
   },
   {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2608675987137",
-    "seller": "Loja Anabela",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
     "driverId": "98583",
     "driverName": "JOAO ANTONIO FONSECA DE SOUZA",
     "hub": "GOV",
@@ -37506,66 +37590,6 @@
     "br": "BR2669207628390",
     "seller": "BestDream Magazine",
     "city": "Serra",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2683346119105",
-    "seller": "Loja Anabela",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "107229",
-    "driverName": "Diego Tavares De Souza",
-    "hub": "JDF",
-    "br": "BR2686553619998",
-    "seller": "GUILHERME STIEBLER VIEIRA JUNIOR",
-    "city": "Juiz de Fora",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "107229",
-    "driverName": "Diego Tavares De Souza",
-    "hub": "JDF",
-    "br": "BR262703140362F",
-    "seller": "LOJA CLORIN",
-    "city": "Juiz de Fora",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR266441795146K",
-    "seller": "Diene Gomes da Silva",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR261708867078V",
-    "seller": "Eduardo José lasmar",
-    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
@@ -37668,18 +37692,6 @@
     "action": "Acompanhar evolucao."
   },
   {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR2646896548163",
-    "seller": "Alzimar miliorini morais",
-    "city": "Vila Velha",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
     "driverId": "16412",
     "driverName": "Alex Martins barbosa",
     "hub": "ES2",
@@ -37734,18 +37746,6 @@
     "br": "BR2684452912050",
     "seller": "BestDream Magazine",
     "city": "Serra",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em acompanhamento",
-    "action": "Acompanhar evolucao."
-  },
-  {
-    "driverId": "1488291",
-    "driverName": "LEANDERSON SOARES DE ASSIS CROCE BARCELOS",
-    "hub": "ES2",
-    "br": "BR260821925276W",
-    "seller": "ProBikePecas",
-    "city": "Vila Velha",
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em acompanhamento",
