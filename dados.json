@@ -8328,18 +8328,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "368957",
-    "driverName": "JECIMARA BATISTA RODRIGUES",
-    "hub": "3PL08",
-    "br": "BR2694320539655",
-    "seller": "Corre Kids Calçados",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "1271651",
     "driverName": "MARCELO SOARES SILVA",
     "hub": "3PL08",
@@ -9329,18 +9317,6 @@
     "hub": "3PL08",
     "br": "BR2619243403474",
     "seller": "MILARMAQ MAQUINAS",
-    "city": "Nova Serrana",
-    "date": "8/3/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "368957",
-    "driverName": "JECIMARA BATISTA RODRIGUES",
-    "hub": "3PL08",
-    "br": "BR269251473926L",
-    "seller": "Dulojashoes",
     "city": "Nova Serrana",
     "date": "8/3/2026",
     "aging": "2",
@@ -10797,7 +10773,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1271651",
@@ -20229,7 +20205,7 @@
     "date": "8/3/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2087182",
@@ -21408,6 +21384,18 @@
     "action": "Acompanhar evolucao."
   },
   {
+    "driverId": "368957",
+    "driverName": "JECIMARA BATISTA RODRIGUES",
+    "hub": "3PL08",
+    "br": "BR2694320539655",
+    "seller": "Corre Kids Calçados",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
     "driverId": "1326308",
     "driverName": "GABRIELA CAMPOS COSTA FERNANDES",
     "hub": "3PL08",
@@ -21605,6 +21593,18 @@
     "hub": "3PL08",
     "br": "BR2680726785609",
     "seller": "F.CALCADOS LITDA",
+    "city": "Nova Serrana",
+    "date": "8/3/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "368957",
+    "driverName": "JECIMARA BATISTA RODRIGUES",
+    "hub": "3PL08",
+    "br": "BR269251473926L",
+    "seller": "Dulojashoes",
     "city": "Nova Serrana",
     "date": "8/3/2026",
     "aging": "2",
