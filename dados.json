@@ -2553,7 +2553,7 @@
     "date": "7/31/2026",
     "aging": "6",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "17326",
@@ -2601,7 +2601,7 @@
     "date": "7/31/2026",
     "aging": "6",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "171408",
@@ -4941,7 +4941,7 @@
     "date": "8/3/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1271651",
@@ -6657,7 +6657,7 @@
     "date": "8/3/2026",
     "aging": "3",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "187198",
@@ -7833,7 +7833,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2113814",
@@ -8097,7 +8097,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2113814",
@@ -8469,7 +8469,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "179417",
@@ -8709,7 +8709,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3171102",
@@ -8817,7 +8817,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3171102",
@@ -9585,7 +9585,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2087182",
@@ -10005,7 +10005,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1326308",
@@ -10233,7 +10233,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "127768",
@@ -10377,7 +10377,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2647393",
@@ -11121,7 +11121,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1315564",
@@ -11157,7 +11157,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2323103",
@@ -11298,18 +11298,6 @@
     "br": "BR261822728964C",
     "seller": "PezinhosEncantadosBaby",
     "city": "Nova Serrana",
-    "date": "8/4/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
-    "driverId": "1241850",
-    "driverName": "DEMETRIO LOURENCO DE BRITO",
-    "hub": "EXA",
-    "br": "BR260333394061U",
-    "seller": "Confort Lar",
-    "city": "Borda da Mata",
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
@@ -12657,7 +12645,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "202819",
@@ -12789,7 +12777,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "213344",
@@ -12885,7 +12873,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3478129",
@@ -13665,7 +13653,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "27095",
@@ -14661,7 +14649,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3171102",
@@ -14997,7 +14985,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "299953",
@@ -15456,18 +15444,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "1781691",
-    "driverName": "GENIVALDO DE SOUZA NUNES",
-    "hub": "EXA",
-    "br": "BR264777420397U",
-    "seller": "63.769.784 Thiago Paulo Monteiro",
-    "city": "Cambuí",
-    "date": "8/4/2026",
-    "aging": "2",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "2283821",
     "driverName": "WENDER EDUARDO SENA",
     "hub": "ES2",
@@ -15837,7 +15813,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1576955",
@@ -15897,7 +15873,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1022537",
@@ -15921,7 +15897,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2087182",
@@ -16161,7 +16137,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1747146",
@@ -17337,7 +17313,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "1576955",
@@ -17817,7 +17793,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2323103",
@@ -18117,7 +18093,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3267878",
@@ -18297,7 +18273,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "41691",
@@ -19197,7 +19173,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3665683",
@@ -19377,7 +19353,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "194143",
@@ -19389,7 +19365,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2408546",
@@ -20433,7 +20409,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "581234",
@@ -20577,7 +20553,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "3430555",
@@ -20649,7 +20625,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "123260",
@@ -20709,7 +20685,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2087182",
@@ -20877,7 +20853,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "234991",
@@ -21177,7 +21153,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "551991",
@@ -21633,7 +21609,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2113814",
@@ -22017,7 +21993,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "124169",
@@ -22101,7 +22077,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "107229",
@@ -22353,7 +22329,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "2113814",
@@ -23217,7 +23193,7 @@
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+    "action": "Validar fluxo de recebimento antes de qualquer acao com o motorista."
   },
   {
     "driverId": "638687",
@@ -23286,6 +23262,30 @@
     "br": "BR260142815650Y",
     "seller": "allontricot",
     "city": "Monte Sião",
+    "date": "8/4/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "1241850",
+    "driverName": "DEMETRIO LOURENCO DE BRITO",
+    "hub": "EXA",
+    "br": "BR260333394061U",
+    "seller": "Confort Lar",
+    "city": "Borda da Mata",
+    "date": "8/4/2026",
+    "aging": "2",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
+  },
+  {
+    "driverId": "1781691",
+    "driverName": "GENIVALDO DE SOUZA NUNES",
+    "hub": "EXA",
+    "br": "BR264777420397U",
+    "seller": "63.769.784 Thiago Paulo Monteiro",
+    "city": "Cambuí",
     "date": "8/4/2026",
     "aging": "2",
     "status": "Em validacao operacional",
