@@ -3720,18 +3720,6 @@
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
   },
   {
-    "driverId": "2897298",
-    "driverName": "EDSON ROBERTO AQUINO IZIDIO",
-    "hub": "3PL08",
-    "br": "BR261080452799D",
-    "seller": "shoe-industry",
-    "city": "Nova Serrana",
-    "date": "8/7/2026",
-    "aging": "5",
-    "status": "Em validacao operacional",
-    "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
-  },
-  {
     "driverId": "82534",
     "driverName": "WAGNER HENRIQUE DUARTE",
     "hub": "UDI",
@@ -7642,6 +7630,18 @@
     "aging": "4",
     "status": "Em validacao operacional",
     "action": "Validar se o pacote foi enviado sem bipe ou ainda nao apareceu no recebimento."
+  },
+  {
+    "driverId": "2897298",
+    "driverName": "EDSON ROBERTO AQUINO IZIDIO",
+    "hub": "3PL08",
+    "br": "BR261080452799D",
+    "seller": "shoe-industry",
+    "city": "Nova Serrana",
+    "date": "8/7/2026",
+    "aging": "5",
+    "status": "Em validacao operacional",
+    "action": "Acompanhar evolucao."
   },
   {
     "driverId": "3567531",
